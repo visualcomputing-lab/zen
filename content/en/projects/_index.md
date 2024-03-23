@@ -9,6 +9,7 @@ td {
 height: 160px;
 text-align: left;
 vertical-align: middle;
+font face="Arial"
 }
 </style>
 
@@ -22,14 +23,9 @@ vertical-align: middle;
 <td>
 <p>Adaptive Irradiance Sampling for Many-Light Rendering of Subsurface Scattering</p>
 <p>K. Nabata, K. Iwasaki</p>
-<!-- <p>IEEE Transactions on Visualization and Computer Graphics</p> -->
+<p>IEEE Transactions on Visualization and Computer Graphics</p>
 </td>
 </tr>
 </tbody>
 </table>
 
-###
-|    |    |
-|----|----|
-|<img src="./img/tog2020.png">|Resampling-aware weighting functions|
-|xxxx|yyyy|
