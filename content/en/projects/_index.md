@@ -18,5 +18,8 @@ IEEE Transactions on Visualization and Computer Graphics</td>
 </tbody>
 </table>
 
-
-
+###
+|    |    |
+|----|----|
+|<img src="./img/tog2020.png">|Resampling-aware weighting functions|
+|xxxx|yyyy|

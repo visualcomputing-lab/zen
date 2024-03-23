@@ -65,7 +65,3 @@ languages:
     languageCode: "ja"
     contentDir: content/jp
 
-markup:
-  goldmark:
-    renderer:
-      unsafe: true
