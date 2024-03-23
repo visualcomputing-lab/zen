@@ -15,30 +15,30 @@ vertical-align: middle;
 <table>
 <tbody><tr>
 
-<td width="170" >
+<td width="20%" >
 <img src="./img/tvcg2021.png" width="160" height="120">
 </td>
 <!--- <td width="640" height="120" vertical-alignvalign="top"> -->
 <td width="80%">
 Adaptive Irradiance Sampling for Many-Light Rendering of Subsurface Scattering <br>
 K. Nabata, K. Iwasaki <br>
-IEEE Transactions on Visualization and Computer Graphics <br>
+<b>IEEE Transactions on Visualization and Computer Graphics </b> <br>
 </td>
 </tr>
 
 <tr>
-<td width="170">
+<td width="20%">
 <img src="./img/pg2020.jpg" width="160" height="120">
 </td>
 <td width="80%" height="120">
 <a href="https://web.wakayama-u.ac.jp/~iwasaki/project/tsrbpt">
 Two-stage Resampling for Bidirectional Path Tracing with Multiple Light Sub-paths</a>
 K. Nabata, K. Iwasaki, Y. Dobashi<br>
-Computer Graphics Forum (Pacific Graphics 2020)
+<b> Computer Graphics Forum (Pacific Graphics 2020) </b>
 </td>
 </tr>
 <tr>
-<td width="170">
+<td width="20%">
 <img src="./img/tog2020.png" align="center" width="160" height="120">
 </td>
 <td width="80%" height="120">
@@ -48,7 +48,7 @@ ACM Transactions on Graphics (presented at SIGGRAPH 2020)
 </td>
 </tr>
 <tr>
-<td width="170">
+<td width="20%">
 <img src="./img/sig2018.jpg" align="center" width="160" height="120">
 </td>
 <td width="80%" height="120">
@@ -59,7 +59,7 @@ K. Sakurai, Y. Dobashi, K. Iwasaki, T. Nishita <br>
 </td>
 </tr>
 <tr>
-<td width="170">
+<td width="20%">
 <img src="./img/pg2016.png" align="center" width="160" height="120">
 </td>
 <td width="80%" height="120">
@@ -70,7 +70,7 @@ K. Nabata, K. Iwasaki, Y. Dobashi, T. Nishita <br>
 </td>
 </tr>
 <tr>
-<td width="170">
+<td width="20%">
 <img src="./img/sig2014.jpg" align="center" width="160" height="120">
 </td>
 <td width="80%" height="120">
@@ -80,7 +80,7 @@ Y. Yue, K. Iwasaki, B.Y. Chen, Y. Dobashi, T. Nishita <br>
 </td>
 </tr>
 <tr>
-<td width="170">
+<td width="20%">
 <img src="./img/eg2014.jpg" align="center" width="160" height="120">
 </td>
 <td width="80%" height="120">
@@ -90,7 +90,7 @@ K. Iwasaki, K. Mizutani, Y. Dobashi, T. Nishita <br>
 </td>
 </tr>
 <tr>
-<td width="170">
+<td width="20%">
 <img src="./img/HPG2013.jpg" align="center" width="160" height="120">
 </td>
 <td width="80%" height="120">
@@ -100,7 +100,7 @@ K. Nabata, K. Iwasaki, Y. Dobashi, T. Nishita <br>
 </td>
 </tr>
 <tr>
-<td width="170">
+<td width="20%">
 <img src="./img/SGA2012.jpg" align="center" width="160" height="120">
 </td>
 <td width="80%" height="120">
@@ -110,7 +110,7 @@ K. Iwasaki, Y. Dobashi, T. Nishita  <br>
 </td>
 </tr>
 <tr>
-<td width="170">
+<td width="20%">
 <img src="./img/EG2012.jpg" align="center" width="160" height="120">
 </td>
 <td width="80%" height="120">
@@ -120,7 +120,7 @@ K. Iwasaki, W. Furuya, Y. Dobashi, T. Nishita <br>
 </td>
 </tr>
 <tr>
-<td width="170">
+<td width="20%">
 <img src="./img/sig2012brief.png" align="center" width="160" height="120">
 </td>
 <td width="80%" height="120">
@@ -130,7 +130,7 @@ T. Nishino, K. Iwasaki, Y. Dobashi, T. Nishita <br>
 </td>
 </tr>
 <tr>
-<td width="170">
+<td width="20%">
 <img src="./img/sgasketch2011.jpg" align="center" width="160" height="120">
 </td>
 <td width="80%" height="120">
@@ -140,7 +140,7 @@ W. Furuya, K. Iwasaki, Y. Dobashi, T. Nishita <br>
 </td>
 </tr>
 <tr>
-<td width="170">
+<td width="20%">
 <img src="./img/PG11.jpg" width="160" height="120">
 </td>
 <td width="80%" height="120">
@@ -150,7 +150,7 @@ K. Iwasaki,T. Nishino, Y. Dobashi <br>
 </td>
 </tr>
 <tr>
-<td width="170">
+<td width="20%">
 <img src="./img/PG10.jpg" width="160" height="120">
 </td>
 <td width="80%" height="120">
@@ -160,7 +160,7 @@ K. Iwasaki, H. Uchida, Y. Dobashi, T. Nishita <br>
 </td>
 </tr>
 <tr>
-<td width="170">
+<td width="20%">
 <img src="./img/siga2010.jpg" width="160" height="120">
 </td>
 <td width="80%" height="120">
@@ -170,7 +170,7 @@ Y. Yue, K. Iwasaki, B.Y. Chen, Y. Dobashi, T. Nishita <br>
 </td>
 </tr>
 <tr>
-<td width="170">
+<td width="20%">
 <img src="./img/SIGASIA09.jpg" width="160" height="120">
 </td>
 <td width="80%" height="120">
@@ -180,7 +180,7 @@ K. Iwasaki, H. Uchida, Y. Dobashi, T. Nishita <br>
 </td>
 </tr>
 <tr>
-<td width="170">
+<td width="20%">
 <img src="./img/pg09.jpg" width="160" height="120">
 </td>
 <td width="80%" height="120">
