@@ -16,8 +16,8 @@ font face="Arial"
 <table>
 <tbody><tr>
 <!--- <td width="160" height="120" valign="top"> -->
-<td>
-<img src="./img/tvcg2021.png" width="20%" height="120">
+<td width="20%">
+<img src="./img/tvcg2021.png" width="160" height="120">
 </td>
 <!--- <td width="640" height="120" vertical-alignvalign="top"> -->
 <td width="80%">
