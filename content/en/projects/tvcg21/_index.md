@@ -1,5 +1,5 @@
 ---
-tile:""
+tile:  ""
 date: 2024-03-23
 ---
 ### Adaptive Irradiance Sampling for Many-Light Rendering of Subsurface Scattering
