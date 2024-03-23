@@ -20,7 +20,7 @@ vertical-align: middle;
 </td>
 <!--- <td width="640" height="120" vertical-alignvalign="top"> -->
 <td width="80%">
-Adaptive Irradiance Sampling for Many-Light Rendering of Subsurface Scattering <br>
+[Adaptive Irradiance Sampling for Many-Light Rendering of Subsurface Scattering](./tvcg21/) <br>
 K. Nabata, K. Iwasaki <br>
 <b>IEEE Transactions on Visualization and Computer Graphics </b> <br>
 </td>
