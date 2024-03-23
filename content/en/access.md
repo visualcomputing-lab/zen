@@ -1,8 +1,8 @@
 ---
 title: Access
-author: eSolia
-date: 2015-05-09T00:05:19.000Z
-publishdate: 2012-01-10T00:05:19.000Z
+author: Kei Iwasaki 
+date: 2024-03-23 
+#publishdate: 2012-01-10T00:05:19.000Z
 description: About eSolia - vision, general information such as HQ address, contact information, map, directors, and lines of business.
 draft: false
 slug: about
@@ -79,16 +79,6 @@ As a leader in our market for outsourced IT services, eSolia's vision is to cons
 </div>
 * * *
 
-### Lines of Business
-
-* Bilingual IT Consulting and Solutions
-* Project Management
-* System Engineering - Design, Build, Validate, Test, Upgrade
-* Outsourced Run and Maintain for IT Systems
-* Outsourced User Support and Helpdesk
-* Training
-* Online General Business Database Service
-
 ### Access Map
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d808.3601905897486!2d139.6069364024916!3d35.862714100000005!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6018c306614768c5%3A0x2f89aa7965582fe8!2z57eP5ZCI56CU56m25qOf!5e0!3m2!1sja!2sjp!4v1711160425133!5m2!1sja!2sjp" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3241.377084474057!2d139.75146199999998!3d35.667716!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188b933eb5098d%3A0xb799ee788fa28eb7!2seSolia+Inc.!5e0!3m2!1sen!2sjp!4v1434536695719" width="600" height="450" frameborder="0" style="border:0"></iframe>
