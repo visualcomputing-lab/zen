@@ -53,7 +53,7 @@ ACM Transactions on Graphics (presented at SIGGRAPH 2020)
 </td>
 <td width="80%" height="120">
 <a href="http://ksakurai.sakura.ne.jp/SG18/">
-Fabricating Reflectors for Displaying Multiple Images</a>
+Fabricating Reflectors for Displaying Multiple Images</a> <br>
 K. Sakurai, Y. Dobashi, K. Iwasaki, T. Nishita <br> 
 <b>ACM Transactions on Graphics (SIGGRAPH2018) </b>
 </td>
@@ -64,7 +64,7 @@ K. Sakurai, Y. Dobashi, K. Iwasaki, T. Nishita <br>
 </td>
 <td width="80%" height="120">
 <a href="https://web.wakayama-u.ac.jp/~iwasaki/project/manylight/">
-An Error Estimation Framework for Many-Light Rendering</a>
+An Error Estimation Framework for Many-Light Rendering</a> <br>
 K. Nabata, K. Iwasaki, Y. Dobashi, T. Nishita <br>
 <b>Computer Graphics Forum (Pacific Graphics 2016)</b>
 </td>
