@@ -64,3 +64,8 @@ languages:
     languageName: "Japanese"
     languageCode: "ja"
     contentDir: content/jp
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
