@@ -1,6 +1,6 @@
 ---
-title: "Zen demo site"
-baseURL: "https://zen-demo.xdeb.org/"
+title: "Visual Computing Laboratory"
+baseURL: "https://visualcomputing-lab.github.io/zen/"
 theme: "github.com/frjo/hugo-theme-zen/v3"
 languageCode: "en-GB"
 defaultContentLanguage: "en"
