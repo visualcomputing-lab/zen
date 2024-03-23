@@ -18,6 +18,7 @@ IEEE Transactions on Visualization and Computer Graphics</td>
 </table>
 
 ###
+|||
 |---|---|
 |<img src="./img/tvcg2021.png" width="160" height="120">| Adaptive Irradiance Sampling for Many-Light Rendering of Subsurface Scattering,
 K. Nabata, K. Iwasaki  
