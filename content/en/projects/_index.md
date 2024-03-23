@@ -145,9 +145,9 @@ W. Furuya, K. Iwasaki, Y. Dobashi, T. Nishita <br>
 <img src="./img/PG11.jpg" witdth="160" height="120">
 </td>
 <td width="80%" height="120">
-<p align="justify"><b><font face="Arial"><a href="https://web.wakayama-u.ac.jp/~iwasaki/project/cloud/">Real-time Rendering of Endless Cloud Animation</a></font></b></p>
-<p><font face="Arial">K. Iwasaki,T. Nishino, Y. Dobashi </font></p>
-<p><b>Pacific Graphics 2011 Short Paper</b></p>
+Real-time Rendering of Endless Cloud Animation <br>
+K. Iwasaki,T. Nishino, Y. Dobashi <br>
+<b>Pacific Graphics 2011 Short Paper </b>
 </td>
 </tr>
 <tr>
@@ -155,9 +155,9 @@ W. Furuya, K. Iwasaki, Y. Dobashi, T. Nishita <br>
 <img src="./img/PG10.jpg" witdth="160" height="120">
 </td>
 <td width="80%" height="120">
-<p align="justify"><b><font face="Arial"><a href="https://web.wakayama-u.ac.jp/~iwasaki/project/ice/">Fast Particle-based Visual Simulation of Ice Melting</a></font></b></p>
-<p><font face="Arial">K. Iwasaki, H. Uchida, Y. Dobashi, T. Nishita</font></p>
-<p><b>Computer Graphics Forum (Pacific Graphics 2010)</b></p>
+Fast Particle-based Visual Simulation of Ice Melting <br>
+K. Iwasaki, H. Uchida, Y. Dobashi, T. Nishita <br>
+<b>Computer Graphics Forum (Pacific Graphics 2010)</b>
 </td>
 </tr>
 <tr>
@@ -165,9 +165,9 @@ W. Furuya, K. Iwasaki, Y. Dobashi, T. Nishita <br>
 <img src="./img/siga2010.jpg" width="160" height="120">
 </td>
 <td width="80%" height="120">
-<p align="justify"><b><font face="Arial">Unbiased, Adaptive Stochastic Sampling for Rendering Inhomogeneous Participating Media</font></b></p>
-<p><font face="Arial">Y. Yue, K. Iwasaki, B.Y. Chen, Y. Dobashi, T. Nishita</font></p>
-<p><b>ACM Transactions on Graphics (SIGGRAPH ASIA 2010)</b></p>
+Unbiased, Adaptive Stochastic Sampling for Rendering Inhomogeneous Participating Media <br>
+Y. Yue, K. Iwasaki, B.Y. Chen, Y. Dobashi, T. Nishita <br>
+<b>ACM Transactions on Graphics (SIGGRAPH ASIA 2010)</b>
 </td>
 </tr>
 <tr>
@@ -175,9 +175,9 @@ W. Furuya, K. Iwasaki, Y. Dobashi, T. Nishita <br>
 <img src="./img/SIGASIA09.jpg" width="160" height="120">
 </td>
 <td width="80%" height="120">
-<p align="justify"><b><font face="Arial">Real-Time Visual Simulation of Ice Melting, Taking Into Account Meltwater</font></b></p>
-<p><font face="Arial">K. Iwasaki, H. Uchida, Y. Dobashi, T. Nishita</font></p>
-<p><b>SIGGRAPH ASIA 2009, Sketch</b></p>
+Real-Time Visual Simulation of Ice Melting, Taking Into Account Meltwater <br>
+K. Iwasaki, H. Uchida, Y. Dobashi, T. Nishita <br>
+<b>SIGGRAPH ASIA 2009 Sketch</b>
 </td>
 </tr>
 <tr>
@@ -185,9 +185,9 @@ W. Furuya, K. Iwasaki, Y. Dobashi, T. Nishita <br>
 <img src="./img/pg09.jpg" width="160" height="120">
 </td>
 <td width="80%" height="120">
-<p align="justify"><b><font face="Arial">Interactive Rendering of Interior Scenes with Dynamic Environment Illumination</font></b></p>
-<p><font face="Arial">Y. Yue, K. Iwasaki, B.Y. Chen, Y. Dobashi, T. Nishita</font></p>
-<p><b>Computer Graphics Forum (Pacific Graphics 2009)</b></p>
+Interactive Rendering of Interior Scenes with Dynamic Environment Illumination <br>
+Y. Yue, K. Iwasaki, B.Y. Chen, Y. Dobashi, T. Nishita <br>
+<b>Computer Graphics Forum (Pacific Graphics 2009)</b>
 </td>
 </tr>
 
