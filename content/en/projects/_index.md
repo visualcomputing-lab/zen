@@ -6,7 +6,7 @@ data: 2024-03-23
 ###
 <style>
 td {
-height: 160px;
+height: 120px;
 text-align: left;
 vertical-align: middle;
 font face="Arial"
@@ -21,9 +21,9 @@ font face="Arial"
 </td>
 <!--- <td width="640" height="120" vertical-alignvalign="top"> -->
 <td>
-<p>Adaptive Irradiance Sampling for Many-Light Rendering of Subsurface Scattering</p>
-<p>K. Nabata, K. Iwasaki</p>
-<p>IEEE Transactions on Visualization and Computer Graphics</p>
+Adaptive Irradiance Sampling for Many-Light Rendering of Subsurface Scattering <br>
+K. Nabata, K. Iwasaki <br>
+IEEE Transactions on Visualization and Computer Graphics <br>
 </td>
 </tr>
 </tbody>
