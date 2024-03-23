@@ -4,7 +4,7 @@ data: 2024-03-23
 ---
 
 ###
-
+* * *
 <table>
 <tbody><tr>
 <td width="20%">
@@ -19,7 +19,7 @@ Adaptive Irradiance Sampling for Many-Light Rendering of Subsurface Scattering</
 </tr>
 </tbody>
 </table>
-
+* * *
 ---
 
 |||
