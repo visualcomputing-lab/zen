@@ -44,10 +44,10 @@ menu:
     Identifier: about
     Url: /about  
 ---
+### address
+Visual Computing Laboratory (VCL), Graduate School of Science and Engineering, Saitama University.  
+255 Shimo-Okubo, Sakura-ku, Saitama, 338-8570, Japan.  
 
-## Company Information
-### About eSolia: Our Vision
-As a leader in our market for outsourced IT services, eSolia's vision is to consistently provide our clients with comprehensive, exemplary IT services unbiased by maker affiliation, designed and delivered with a keen awareness of business and culture. Acting with the highest standards of ethics, professionalism and integrity, eSolia experts will help you grow the foundation for your business success.
 
 ### General
 
