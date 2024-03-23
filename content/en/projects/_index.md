@@ -15,8 +15,8 @@ font face="Arial"
 
 <table>
 <tbody><tr>
-<!--- <td width="160" height="120" valign="top"> -->
-<td width="20%">
+
+<td width="170" >
 <img src="./img/tvcg2021.png" width="160" height="120">
 </td>
 <!--- <td width="640" height="120" vertical-alignvalign="top"> -->
@@ -28,7 +28,7 @@ IEEE Transactions on Visualization and Computer Graphics <br>
 </tr>
 
 <tr>
-<td width="20%">
+<td width="170">
 <img src="./img/pg2020.jpg" align="center" witdth="160" height="120">
 </td>
 <td width="80%" height="120">
@@ -39,7 +39,7 @@ Computer Graphics Forum (Pacific Graphics 2020)
 </td>
 </tr>
 <tr>
-<td width="20%">
+<td width="170">
 <img src="./img/tog2020.png" align="center" witdth="160" height="120">
 </td>
 <td width="80%" height="120">
@@ -49,7 +49,7 @@ ACM Transactions on Graphics (presented at SIGGRAPH 2020)
 </td>
 </tr>
 <tr>
-<td width="20%">
+<td width="170">
 <img src="./img/sig2018.jpg" align="center" witdth="160" height="120">
 </td>
 <td width="80%" height="120">
@@ -60,7 +60,7 @@ K. Sakurai, Y. Dobashi, K. Iwasaki, T. Nishita <br>
 </td>
 </tr>
 <tr>
-<td width="20%">
+<td width="170">
 <img src="./img/pg2016.png" align="center" witdth="160" height="120">
 </td>
 <td width="80%" height="120">
@@ -71,7 +71,7 @@ K. Nabata, K. Iwasaki, Y. Dobashi, T. Nishita <br>
 </td>
 </tr>
 <tr>
-<td width="20%">
+<td width="170">
 <img src="./img/sig2014.jpg" align="center" witdth="160" height="120">
 </td>
 <td width="80%" height="120">
@@ -81,7 +81,7 @@ Y. Yue, K. Iwasaki, B.Y. Chen, Y. Dobashi, T. Nishita <br>
 </td>
 </tr>
 <tr>
-<td width="20%">
+<td width="170">
 <img src="./img/eg2014.jpg" align="center" witdth="160" height="120">
 </td>
 <td width="80%" height="120">
@@ -91,7 +91,7 @@ K. Iwasaki, K. Mizutani, Y. Dobashi, T. Nishita <br>
 </td>
 </tr>
 <tr>
-<td width="20%">
+<td width="170">
 <img src="./img/HPG2013.jpg" align="center" witdth="160" height="120">
 </td>
 <td width="80%" height="120">
@@ -101,7 +101,7 @@ K. Nabata, K. Iwasaki, Y. Dobashi, T. Nishita <br>
 </td>
 </tr>
 <tr>
-<td width="20%">
+<td width="170">
 <img src="./img/SGA2012.jpg" align="center" witdth="160" height="120">
 </td>
 <td width="80%" height="120">
@@ -111,7 +111,7 @@ K. Iwasaki, Y. Dobashi, T. Nishita  <br>
 </td>
 </tr>
 <tr>
-<td width="20%">
+<td width="170">
 <img src="./img/EG2012.jpg" align="center" witdth="160" height="120">
 </td>
 <td width="80%" height="120">
@@ -121,7 +121,7 @@ K. Iwasaki, W. Furuya, Y. Dobashi, T. Nishita <br>
 </td>
 </tr>
 <tr>
-<td width="20%">
+<td width="170">
 <img src="./img/sig2012brief.png" align="center" witdth="160" height="120">
 </td>
 <td width="80%" height="120">
@@ -131,7 +131,7 @@ T. Nishino, K. Iwasaki, Y. Dobashi, T. Nishita <br>
 </td>
 </tr>
 <tr>
-<td width="20%">
+<td width="170">
 <img src="./img/sgasketch2011.jpg" align="center" witdth="160" height="120">
 </td>
 <td width="80%" height="120">
@@ -141,7 +141,7 @@ W. Furuya, K. Iwasaki, Y. Dobashi, T. Nishita <br>
 </td>
 </tr>
 <tr>
-<td width="20%">
+<td width="170">
 <img src="./img/PG11.jpg" witdth="160" height="120">
 </td>
 <td width="80%" height="120">
@@ -151,7 +151,7 @@ K. Iwasaki,T. Nishino, Y. Dobashi <br>
 </td>
 </tr>
 <tr>
-<td width="20%">
+<td width="170">
 <img src="./img/PG10.jpg" witdth="160" height="120">
 </td>
 <td width="80%" height="120">
@@ -161,7 +161,7 @@ K. Iwasaki, H. Uchida, Y. Dobashi, T. Nishita <br>
 </td>
 </tr>
 <tr>
-<td width="20%">
+<td width="170">
 <img src="./img/siga2010.jpg" width="160" height="120">
 </td>
 <td width="80%" height="120">
@@ -171,7 +171,7 @@ Y. Yue, K. Iwasaki, B.Y. Chen, Y. Dobashi, T. Nishita <br>
 </td>
 </tr>
 <tr>
-<td width="20%">
+<td width="170">
 <img src="./img/SIGASIA09.jpg" width="160" height="120">
 </td>
 <td width="80%" height="120">
@@ -181,7 +181,7 @@ K. Iwasaki, H. Uchida, Y. Dobashi, T. Nishita <br>
 </td>
 </tr>
 <tr>
-<td width="20%">
+<td width="170">
 <img src="./img/pg09.jpg" width="160" height="120">
 </td>
 <td width="80%" height="120">
