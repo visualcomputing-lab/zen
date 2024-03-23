@@ -9,7 +9,6 @@ td {
 height: 120px;
 text-align: left;
 vertical-align: middle;
-font face="Arial"
 }
 </style>
 
@@ -29,7 +28,7 @@ IEEE Transactions on Visualization and Computer Graphics <br>
 
 <tr>
 <td width="170">
-<img src="./img/pg2020.jpg" align="left" witdth="160" height="120">
+<img src="./img/pg2020.jpg" width="160" height="120">
 </td>
 <td width="80%" height="120">
 <a href="https://web.wakayama-u.ac.jp/~iwasaki/project/tsrbpt">
@@ -40,7 +39,7 @@ Computer Graphics Forum (Pacific Graphics 2020)
 </tr>
 <tr>
 <td width="170">
-<img src="./img/tog2020.png" align="center" witdth="160" height="120">
+<img src="./img/tog2020.png" align="center" width="160" height="120">
 </td>
 <td width="80%" height="120">
 Resampling-aware Weighting Functions for Bidirectional Path Tracing using Multiple Light Sub-paths<br>
@@ -50,7 +49,7 @@ ACM Transactions on Graphics (presented at SIGGRAPH 2020)
 </tr>
 <tr>
 <td width="170">
-<img src="./img/sig2018.jpg" align="center" witdth="160" height="120">
+<img src="./img/sig2018.jpg" align="center" width="160" height="120">
 </td>
 <td width="80%" height="120">
 <a href="http://ksakurai.sakura.ne.jp/SG18/">
@@ -61,7 +60,7 @@ K. Sakurai, Y. Dobashi, K. Iwasaki, T. Nishita <br>
 </tr>
 <tr>
 <td width="170">
-<img src="./img/pg2016.png" align="center" witdth="160" height="120">
+<img src="./img/pg2016.png" align="center" width="160" height="120">
 </td>
 <td width="80%" height="120">
 <a href="https://web.wakayama-u.ac.jp/~iwasaki/project/manylight/">
@@ -72,7 +71,7 @@ K. Nabata, K. Iwasaki, Y. Dobashi, T. Nishita <br>
 </tr>
 <tr>
 <td width="170">
-<img src="./img/sig2014.jpg" align="center" witdth="160" height="120">
+<img src="./img/sig2014.jpg" align="center" width="160" height="120">
 </td>
 <td width="80%" height="120">
 Poisson-Based Continuous Surface Generation for Goal-Based Caustics <br>
@@ -82,7 +81,7 @@ Y. Yue, K. Iwasaki, B.Y. Chen, Y. Dobashi, T. Nishita <br>
 </tr>
 <tr>
 <td width="170">
-<img src="./img/eg2014.jpg" align="center" witdth="160" height="120">
+<img src="./img/eg2014.jpg" align="center" width="160" height="120">
 </td>
 <td width="80%" height="120">
 Interactive Cloth Rendering of Microcylinder Appearance Model under Environment Lighting <br>
@@ -92,7 +91,7 @@ K. Iwasaki, K. Mizutani, Y. Dobashi, T. Nishita <br>
 </tr>
 <tr>
 <td width="170">
-<img src="./img/HPG2013.jpg" align="center" witdth="160" height="120">
+<img src="./img/HPG2013.jpg" align="center" width="160" height="120">
 </td>
 <td width="80%" height="120">
 Efficient Divide-And-Conquer Ray Tracing using Ray Sampling <br>
@@ -102,7 +101,7 @@ K. Nabata, K. Iwasaki, Y. Dobashi, T. Nishita <br>
 </tr>
 <tr>
 <td width="170">
-<img src="./img/SGA2012.jpg" align="center" witdth="160" height="120">
+<img src="./img/SGA2012.jpg" align="center" width="160" height="120">
 </td>
 <td width="80%" height="120">
 Interactive Bi-scale Editing of Highly Glossy Materials<br>
@@ -112,7 +111,7 @@ K. Iwasaki, Y. Dobashi, T. Nishita  <br>
 </tr>
 <tr>
 <td width="170">
-<img src="./img/EG2012.jpg" align="center" witdth="160" height="120">
+<img src="./img/EG2012.jpg" align="center" width="160" height="120">
 </td>
 <td width="80%" height="120">
 Real-time Rendering of Dynamic Scenes under All-frequency Lighting using Integral Spherical Gaussian <br>
@@ -122,7 +121,7 @@ K. Iwasaki, W. Furuya, Y. Dobashi, T. Nishita <br>
 </tr>
 <tr>
 <td width="170">
-<img src="./img/sig2012brief.png" align="center" witdth="160" height="120">
+<img src="./img/sig2012brief.png" align="center" width="160" height="120">
 </td>
 <td width="80%" height="120">
 Visual Simulation of Freezing Ice with Air Bubbles <br>
@@ -132,7 +131,7 @@ T. Nishino, K. Iwasaki, Y. Dobashi, T. Nishita <br>
 </tr>
 <tr>
 <td width="170">
-<img src="./img/sgasketch2011.jpg" align="center" witdth="160" height="120">
+<img src="./img/sgasketch2011.jpg" align="center" width="160" height="120">
 </td>
 <td width="80%" height="120">
 Efficient Calculation Method of Spherical Signed Distance Function for Real-time Rendering of Dynamic Scenes <br>
@@ -142,7 +141,7 @@ W. Furuya, K. Iwasaki, Y. Dobashi, T. Nishita <br>
 </tr>
 <tr>
 <td width="170">
-<img src="./img/PG11.jpg" witdth="160" height="120">
+<img src="./img/PG11.jpg" width="160" height="120">
 </td>
 <td width="80%" height="120">
 Real-time Rendering of Endless Cloud Animation <br>
@@ -152,7 +151,7 @@ K. Iwasaki,T. Nishino, Y. Dobashi <br>
 </tr>
 <tr>
 <td width="170">
-<img src="./img/PG10.jpg" witdth="160" height="120">
+<img src="./img/PG10.jpg" width="160" height="120">
 </td>
 <td width="80%" height="120">
 Fast Particle-based Visual Simulation of Ice Melting <br>
