@@ -85,8 +85,8 @@ Y. Yue, K. Iwasaki, B.Y. Chen, Y. Dobashi, T. Nishita <br>
 <img src="./img/eg2014.jpg" align="center" witdth="160" height="120">
 </td>
 <td width="80%" height="120">
-Interactive Cloth Rendering of Microcylinder Appearance Model under Environment Lighting
-K. Iwasaki, K. Mizutani, Y. Dobashi, T. Nishita
+Interactive Cloth Rendering of Microcylinder Appearance Model under Environment Lighting <br>
+K. Iwasaki, K. Mizutani, Y. Dobashi, T. Nishita <br>
 <b>Computer Graphics Forum (Eurographics 2014)</b>
 </td>
 </tr>
@@ -115,10 +115,9 @@ K. Iwasaki, Y. Dobashi, T. Nishita  <br>
 <img src="./img/EG2012.jpg" align="center" witdth="160" height="120">
 </td>
 <td width="80%" height="120">
-<p align="justify"><b><font face="Arial"><a href="https://web.wakayama-u.ac.jp/~iwasaki/project/ibl/">Real-time Rendering of Dynamic Scenes under All-frequency Lighting
-using Integral Spherical Gaussian</a></font></b></p>
-<p><font face="Arial">K. Iwasaki, W. Furuya, Y. Dobashi, T. Nishita </font></p>
-<p><b>Computer Graphics Forum (Eurographics 2012)</b></p>
+Real-time Rendering of Dynamic Scenes under All-frequency Lighting using Integral Spherical Gaussian <br>
+K. Iwasaki, W. Furuya, Y. Dobashi, T. Nishita <br>
+<b>Computer Graphics Forum (Eurographics 2012)</b>
 </td>
 </tr>
 <tr>
@@ -126,9 +125,9 @@ using Integral Spherical Gaussian</a></font></b></p>
 <img src="./img/sig2012brief.png" align="center" witdth="160" height="120">
 </td>
 <td width="80%" height="120">
-<p align="justify"><b><font face="Arial"><a href="https://dl.acm.org/citation.cfm?id=2407747">Visual Simulation of Freezing Ice with Air Bubbles</a></font></b></p>
-<p><font face="Arial">T. Nishino, K. Iwasaki, Y. Dobashi, T. Nishita </font></p>
-<p><b>ACM SIGGRAPH ASIA 2012 Technical Brief</b></p>
+Visual Simulation of Freezing Ice with Air Bubbles <br>
+T. Nishino, K. Iwasaki, Y. Dobashi, T. Nishita <br>
+<b>ACM SIGGRAPH ASIA 2012 Technical Brief</b>
 </td>
 </tr>
 <tr>
@@ -136,9 +135,9 @@ using Integral Spherical Gaussian</a></font></b></p>
 <img src="./img/sgasketch2011.jpg" align="center" witdth="160" height="120">
 </td>
 <td width="80%" height="120">
-<p align="justify"><b><font face="Arial"><a href="https://dl.acm.org/citation.cfm?id=2077393">Efficient Calculation Method of Spherical Signed Distance Function for Real-time Rendering of Dynamic Scenes</a></font></b></p>
-<p><font face="Arial">W. Furuya, K. Iwasaki, Y. Dobashi, T. Nishita </font></p>
-<p><b>ACM SIGGRAPH ASIA 2011 Technical Sketches</b></p>
+Efficient Calculation Method of Spherical Signed Distance Function for Real-time Rendering of Dynamic Scenes <br>
+W. Furuya, K. Iwasaki, Y. Dobashi, T. Nishita <br>
+<b>ACM SIGGRAPH ASIA 2011 Technical Sketches</b>
 </td>
 </tr>
 <tr>
