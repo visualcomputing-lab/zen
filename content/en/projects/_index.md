@@ -55,8 +55,8 @@ ACM Transactions on Graphics (presented at SIGGRAPH 2020)
 <td width="80%" height="120">
 <a href="http://ksakurai.sakura.ne.jp/SG18/">
 Fabricating Reflectors for Displaying Multiple Images</a>
-<p><font face="Arial">K. Sakurai, Y. Dobashi, K. Iwasaki, T. Nishita </font></p>
-<p><b>ACM Transactions on Graphics (SIGGRAPH2018)</b></p>
+K. Sakurai, Y. Dobashi, K. Iwasaki, T. Nishita <br> 
+<b>ACM Transactions on Graphics (SIGGRAPH2018) </b>
 </td>
 </tr>
 <tr>
@@ -64,10 +64,10 @@ Fabricating Reflectors for Displaying Multiple Images</a>
 <img src="./img/pg2016.png" align="center" witdth="160" height="120">
 </td>
 <td width="80%" height="120">
-<p align="justify"><b><font face="Arial"><a href="https://web.wakayama-u.ac.jp/~iwasaki/project/manylight/">
-An Error Estimation Framework for Many-Light Rendering</a></font></b></p>
-<p><font face="Arial">K. Nabata, K. Iwasaki, Y. Dobashi, T. Nishita </font></p>
-<p><b>Computer Graphics Forum (Pacific Graphics 2016)</b></p>
+<a href="https://web.wakayama-u.ac.jp/~iwasaki/project/manylight/">
+An Error Estimation Framework for Many-Light Rendering</a>
+K. Nabata, K. Iwasaki, Y. Dobashi, T. Nishita <br>
+<b>Computer Graphics Forum (Pacific Graphics 2016)</b>
 </td>
 </tr>
 <tr>
@@ -75,10 +75,9 @@ An Error Estimation Framework for Many-Light Rendering</a></font></b></p>
 <img src="./img/sig2014.jpg" align="center" witdth="160" height="120">
 </td>
 <td width="80%" height="120">
-<p align="justify"><b><font face="Arial"><a href="http://nishitalab.org/user/egaku/tog14/absttog14.html">
-Poisson-Based Continuous Surface Generation for Goal-Based Caustics</a></font></b></p>
-<p><font face="Arial">Y. Yue, K. Iwasaki, B.Y. Chen, Y. Dobashi, T. Nishita </font></p>
-<p><b>ACM Transactions on Graphics (presented at SIGGRAPH 2014)</b></p>
+Poisson-Based Continuous Surface Generation for Goal-Based Caustics
+Y. Yue, K. Iwasaki, B.Y. Chen, Y. Dobashi, T. Nishita
+<b>ACM Transactions on Graphics (presented at SIGGRAPH 2014)</b>
 </td>
 </tr>
 <tr>
