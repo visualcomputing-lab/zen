@@ -59,8 +59,8 @@ languages:
     languageName: "English"
     languageCode: "en-GB"
     contentDir: content/en
-  sv:
+  ja:
     weight: 2
-    languageName: "Svenska"
-    languageCode: "sv-SE"
-    contentDir: content/sv
+    languageName: "Japanese"
+    languageCode: "ja"
+    contentDir: content/jp
