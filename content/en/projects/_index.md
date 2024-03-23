@@ -4,12 +4,13 @@ data: 2024-03-23
 ---
 
 ###
-
+<style>
 td {
 height: 160px;
 text-align: center;
 vertical-align: middle;
 }
+</style>
 
 <table>
 <tbody><tr>
