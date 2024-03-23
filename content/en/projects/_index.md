@@ -4,12 +4,21 @@ data: 2024-03-23
 ---
 
 ###
+
+td {
+height: 160px;
+text-align: center;
+vertical-align: middle;
+}
+
 <table>
 <tbody><tr>
-<td width="160" height="120" valign="top">
+<!--- <td width="160" height="120" valign="top"> -->
+<td>
 <img src="./img/tvcg2021.png" width="160" height="120">
 </td>
-<td width="640" height="120" valign="top">
+<!--- <td width="640" height="120" vertical-alignvalign="top"> -->
+<td>
 <p>
 Adaptive Irradiance Sampling for Many-Light Rendering of Subsurface Scattering</p>
 K. Nabata, K. Iwasaki
