@@ -8,7 +8,7 @@ data: 2024-03-23
 <table>
 <tbody><tr>
 <td width="20%">
-<img src="./../../../assets/images/tvcg2021.png" align="center" witdth="160" height="120">
+<img src="images/tvcg2021.png" align="center" witdth="160" height="120">
 </td>
 <td width="80%" height="120">
 <p align="justify"><b><font face="Arial"><a href="https://web.wakayama-u.ac.jp/~iwasaki/project/adaptive">
@@ -22,7 +22,3 @@ Adaptive Irradiance Sampling for Many-Light Rendering of Subsurface Scattering</
 * * *
 ---
 
-|||
-|:---|:---|
-|<img src="./../../../assets/images/pg2020.jpg" width="128">| xxx|
-||yyy|
