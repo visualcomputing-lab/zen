@@ -32,10 +32,10 @@ IEEE Transactions on Visualization and Computer Graphics <br>
 <img src="./img/pg2020.jpg" align="center" witdth="160" height="120">
 </td>
 <td width="80%" height="120">
-<p align="justify"><b><font face="Arial"><a href="https://web.wakayama-u.ac.jp/~iwasaki/project/tsrbpt">
-Two-stage Resampling for Bidirectional Path Tracing with Multiple Light Sub-paths</a></font></b></p>
-<p><font face="Arial">K. Nabata, K. Iwasaki, Y. Dobashi</font></p>
-<p><b>Computer Graphics Forum (Pacific Graphics 2020)</b></p>
+<a href="https://web.wakayama-u.ac.jp/~iwasaki/project/tsrbpt">
+Two-stage Resampling for Bidirectional Path Tracing with Multiple Light Sub-paths</a>
+K. Nabata, K. Iwasaki, Y. Dobashi<br>
+Computer Graphics Forum (Pacific Graphics 2020)
 </td>
 </tr>
 <tr>
@@ -43,10 +43,9 @@ Two-stage Resampling for Bidirectional Path Tracing with Multiple Light Sub-path
 <img src="./img/tog2020.png" align="center" witdth="160" height="120">
 </td>
 <td width="80%" height="120">
-<p align="justify"><b><font face="Arial"><a href="https://web.wakayama-u.ac.jp/~iwasaki/project/risbpt">
-Resampling-aware Weighting Functions for Bidirectional Path Tracing using Multiple Light Sub-paths</a></font></b></p>
-<p><font face="Arial">K. Nabata, K. Iwasaki, Y. Dobashi</font></p>
-<p><b>ACM Transactions on Graphics (presented at SIGGRAPH 2020)</b></p>
+Resampling-aware Weighting Functions for Bidirectional Path Tracing using Multiple Light Sub-paths<br>
+K. Nabata, K. Iwasaki, Y. Dobashi<br>
+ACM Transactions on Graphics (presented at SIGGRAPH 2020) 
 </td>
 </tr>
 <tr>
@@ -54,8 +53,8 @@ Resampling-aware Weighting Functions for Bidirectional Path Tracing using Multip
 <img src="./img/sig2018.jpg" align="center" witdth="160" height="120">
 </td>
 <td width="80%" height="120">
-<p align="justify"><b><font face="Arial"><a href="http://ksakurai.sakura.ne.jp/SG18/">
-Fabricating Reflectors for Displaying Multiple Images</a></font></b></p>
+<a href="http://ksakurai.sakura.ne.jp/SG18/">
+Fabricating Reflectors for Displaying Multiple Images</a>
 <p><font face="Arial">K. Sakurai, Y. Dobashi, K. Iwasaki, T. Nishita </font></p>
 <p><b>ACM Transactions on Graphics (SIGGRAPH2018)</b></p>
 </td>
