@@ -29,7 +29,7 @@ IEEE Transactions on Visualization and Computer Graphics <br>
 
 <tr>
 <td width="170">
-<img src="./img/pg2020.jpg" align="center" witdth="160" height="120">
+<img src="./img/pg2020.jpg" align="left" witdth="160" height="120">
 </td>
 <td width="80%" height="120">
 <a href="https://web.wakayama-u.ac.jp/~iwasaki/project/tsrbpt">
