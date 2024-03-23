@@ -22,7 +22,7 @@ vertical-align: middle;
 <td>
 <p>Adaptive Irradiance Sampling for Many-Light Rendering of Subsurface Scattering</p>
 <p>K. Nabata, K. Iwasaki</p>
-<p>IEEE Transactions on Visualization and Computer Graphics</p>
+<!-- <p>IEEE Transactions on Visualization and Computer Graphics</p> -->
 </td>
 </tr>
 </tbody>
