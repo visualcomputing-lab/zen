@@ -75,8 +75,8 @@ K. Nabata, K. Iwasaki, Y. Dobashi, T. Nishita <br>
 <img src="./img/sig2014.jpg" align="center" witdth="160" height="120">
 </td>
 <td width="80%" height="120">
-Poisson-Based Continuous Surface Generation for Goal-Based Caustics
-Y. Yue, K. Iwasaki, B.Y. Chen, Y. Dobashi, T. Nishita
+Poisson-Based Continuous Surface Generation for Goal-Based Caustics <br>
+Y. Yue, K. Iwasaki, B.Y. Chen, Y. Dobashi, T. Nishita <br>
 <b>ACM Transactions on Graphics (presented at SIGGRAPH 2014)</b>
 </td>
 </tr>
@@ -85,10 +85,9 @@ Y. Yue, K. Iwasaki, B.Y. Chen, Y. Dobashi, T. Nishita
 <img src="./img/eg2014.jpg" align="center" witdth="160" height="120">
 </td>
 <td width="80%" height="120">
-<p align="justify"><b><font face="Arial"><a href="https://web.wakayama-u.ac.jp/~iwasaki/project/cloth/">
-Interactive Cloth Rendering of Microcylinder Appearance Model under Environment Lighting</a></font></b></p>
-<p><font face="Arial">K. Iwasaki, K. Mizutani, Y. Dobashi, T. Nishita </font></p>
-<p><b>Computer Graphics Forum (Eurographics 2014)</b></p>
+Interactive Cloth Rendering of Microcylinder Appearance Model under Environment Lighting
+K. Iwasaki, K. Mizutani, Y. Dobashi, T. Nishita
+<b>Computer Graphics Forum (Eurographics 2014)</b>
 </td>
 </tr>
 <tr>
@@ -96,10 +95,9 @@ Interactive Cloth Rendering of Microcylinder Appearance Model under Environment 
 <img src="./img/HPG2013.jpg" align="center" witdth="160" height="120">
 </td>
 <td width="80%" height="120">
-<p align="justify"><b><font face="Arial"><a href="https://web.wakayama-u.ac.jp/~iwasaki/project/dacrt/">
-Efficient Divide-And-Conquer Ray Tracing using Ray Sampling</a></font></b></p>
-<p><font face="Arial">K. Nabata, K. Iwasaki, Y. Dobashi, T. Nishita </font></p>
-<p><b>High Performance Graphics 2013</b></p>
+Efficient Divide-And-Conquer Ray Tracing using Ray Sampling <br>
+K. Nabata, K. Iwasaki, Y. Dobashi, T. Nishita <br>
+<b>High Performance Graphics 2013</b>
 </td>
 </tr>
 <tr>
@@ -107,10 +105,9 @@ Efficient Divide-And-Conquer Ray Tracing using Ray Sampling</a></font></b></p>
 <img src="./img/SGA2012.jpg" align="center" witdth="160" height="120">
 </td>
 <td width="80%" height="120">
-<p align="justify"><b><font face="Arial"><a href="https://web.wakayama-u.ac.jp/~iwasaki/project/biscale/">
-Interactive Bi-scale Editing of Highly Glossy Materials</a></font></b></p>
-<p><font face="Arial">K. Iwasaki, Y. Dobashi, T. Nishita </font></p>
-<p><b>ACM Transactions on Graphics (SIGGRAPH ASIA 2012)</b></p>
+Interactive Bi-scale Editing of Highly Glossy Materials<br>
+K. Iwasaki, Y. Dobashi, T. Nishita  <br>
+<b>ACM Transactions on Graphics (SIGGRAPH ASIA 2012)</b>
 </td>
 </tr>
 <tr>
