@@ -38,7 +38,7 @@ params:
   description: "The zen theme for Hugo demo site."
   dateformat: "2 January, 2006"
   favicon: true 
-  logo: false
+  logo: "logo.png"
   feedlinks: true
   icon: "apple-touch-icon.png"
   image: "apple-touch-icon.png"
