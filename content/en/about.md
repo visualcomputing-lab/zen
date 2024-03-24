@@ -10,13 +10,6 @@ subtitle: Basic Information
 weight: 10
 alternatelocales:
   - ja-JP
-tags:
-  - eSolia
-  - Information
-  - Access Map
-  - Address
-  - Business Lines
-#title: About eSolia Inc.
 #topics:
 #  - eSolia
 type: aboutpage
