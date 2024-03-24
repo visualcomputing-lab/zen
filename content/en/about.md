@@ -24,7 +24,7 @@ type: aboutpage
 #images:
 #  - /img/eSolia-Chicklet-Color-1024px.png
 #aliases:
-#  - /concept/cpt-vis/
+#  - 
 #  - /esolia-eng/about.htm
 #menu:
 #  side:
@@ -44,11 +44,11 @@ type: aboutpage
 #    Identifier: about
 #    Url: /about  
 ---
-## Members
-### Faculty
+### Members
+#### Faculty
 - Kei Iwasaki 
 
-### M1
+#### M1
 - xx
 - xx
 - xx
@@ -61,7 +61,7 @@ type: aboutpage
 - xx
 - xx
 
-## Address
+### Address
 Visual Computing Laboratory (VCL), [Graduate School of Science and Engineering](http://www.saitama-u.ac.jp/rikogaku/en.html), [Saitama University](https://en.saitama-u.ac.jp/).  
 255 Shimo-Okubo, Sakura-ku, Saitama, 338-8570, Japan.  
 
