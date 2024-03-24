@@ -17,6 +17,9 @@ type: aboutpage
 ### 研究室メンバー
 #### 教員
 - 岩崎　慶 
+    - [google scholar](https://scholar.google.co.jp/citations?user=PD3Wd9kAAAAJ&hl=ja)
+    - [DBLP](https://dblp.org/pid/21/3350.htm)
+    - [researchmap] ()
 
 #### M1
 - xx
