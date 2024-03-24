@@ -187,27 +187,71 @@ draft: false
 * K. Iwasaki, Y. Dobashi, T. Nishita, [Interactive Lighting and Material Design System for Cyberworlds](https://doi.org/10.1109/CW.2010.54), CW2010, pp. 331--337.
 * Y. Tanigaki, K. Iwasaki, Real-time Rendering of Oceans Considering Multiple Scattering of Light, IEVC2010.
 
+* 古家 亙，岩崎 慶, 球面ガウス関数を用いた全周波照明環境下における間接照明計算，情報処理学会関西支部, 2010.
+* 西野 孝則，岩崎 慶，土橋 宜典, 動的な雲のための多重散乱光の高速計算法，情報処理学会関西支部, 2010.
+* 西尾 竜平，岩崎 慶，土橋 宜典, 前計算減衰率カットによる多重散乱を考慮した動的な雲の高速レンダリング，VC/GCAD合同シンポジウム2010.
+* 内田 英行，岩崎 慶，土橋 宜典，西田 友是, 融解後の水を考慮した粒子ベース氷塊融解シミュレーション，VC/GCAD合同シンポジウム2010.
+* 中西 良太，岩崎 慶, 携帯カメラを用いたPRTのための環境マップ生成法，情報処理学会第72回全国大会，3ZH-3, 2010.
+* 上田 悟史，岩崎 慶， 内田 英行, 対流計算を高速化した氷塊融解ビジュアルシミュレーション，情報処理学会第72回全国大会，2ZH-3, 2010.
+
 ### 2009
 * Y. Yue, K. Iwasaki, B.Y.Chen, Y. Dobashi, T.Nishita, [Interactive Rendering of Interior Scenes with Dynamic Environment Illumination](https://doi.org/10.1111/j.1467-8659.2009.01572.x), Computer Graphics Forum, Vol. 28, No. 7, pp. 1935--1944, 2009.
 * K. Iwasaki, F. Yoshimoto, Y. Dobashi, T. Nishita, [Inverse Problem Approach To BRDF Modeling](https://dx.doi.org/10.5220/0001784601290136), Proc. of GRAPP 2009, pp. 129--136, 2009.
 
+* 岩崎慶，土橋宜典，西田友是, 逆問題アプローチによるBRDFモデリング，情報処理学会論文誌，Vol. 50, No.8, pp. 1917-1925, 2009.
+* 新谷幹夫，白石路雄，土橋宜典，岩崎慶，西田友是, 散乱媒質の反射・透過分布の計算と補間処理，画像電子学会論文誌，Vol.38, No.4, pp.423-431, 2009.
+* M. Shinya, M. Shiraishi, Y. Dobashi, K. Iwasaki, T. Nishita, "Rendering Translucent Materials with Plane-parallel Solution", 情報処理学会論文誌, Vol. 50, No. 6, pp.1668-1678, 2009.
+
+* 内田英行，岩崎慶, 融解後の水を考慮した粒子ベース氷塊融解シミュレーション，平成21年情報処理学会関西支部大会 E-05 **学生奨励賞**
+* 西尾 竜平, 岩崎 慶, 土橋 宜典, cutを用いた雲の多重散乱の高速計算法，平成21年情報処理学会関西支部大会 E-06
+* 角田 賢亮, 岩崎 慶, 吉本 富士市, 多重散乱を考慮した海面の高速レンダリング, 情報処理学会第71回全国大会,2Z-1, 2009.
+* 内田 英行, 上田悟史, 岩崎 慶, 吉本富士市, GPUを用いた粒子ベース氷塊融解シミュレーションの高速化，情報処理学会第71回全国大会,2Z-2, 2009.
+* 宮前 雄生, 岩崎 慶, 吉本 富士市, Visibility Cutsを用いた動的シーンの高速レンダリング，グラフィクスとCAD研究会 2009-CG-134, pp.101-106.
+* 岩崎 慶, 宮前 雄生, 土橋 宜典, 西田 友是, 動的BRDFを考慮した動的シーンのインタラクティブレンダリング, VC/GCAD 合同シンポジウム
+
 ### 2008
 * K. Iwasaki, Y. Dobashi, F. Yoshimoto, T. Nishita, [GPU-based Rendering of Point-Sampled Water Surfaces](https://link.springer.com/article/10.1007/s00371-007-0186-8), The Visual Computer, Vol.24, No.2, pp. 77--86, 2008. 
+
+* 内田 英行, 岩崎 慶, 吉本 富士市, GPUを用いた粒子ベース氷塊融解シミュレーションの高速化, 平成20年度情報処理学会関西支部 支部大会 講演論文集，pp. 273-274，2008年10月
+* 宮前 雄生, 岩崎 慶, 吉本 富士市, Visibility Cutsを用いた動的シーンの高速レンダリング, 平成20年度情報処理学会関西支部 支部大会 講演論文集, pp. 299-300, 2008年10月 **学生奨励賞** 
+* 一木 誠史，岩崎 慶，高木 佐恵子, 吉本 富士市, GPUを用いた水中の光跡の高速レンダリング，情報処理学会第70回全国大会，4ZE-6，2008年3月
+* 中谷 聡志, 岩崎 慶, 高木 佐恵子, 吉本 富士市, 自己反射を考慮した鏡面反射物体のGPUレイトレーシング法，情報処理学会第70回全国大会，4ZE-7，2008年3月 学生奨励賞 受賞
+* 西本 陽太, 岩崎 慶, 高木 佐恵子, 吉本 富士市, 前計算放射輝度伝達法のための適応的メッシュ分割法, 情報処理学会第70回全国大会，1ZF-5，2008年3月
+* 福井 洋平, 岩崎 慶, 高木 佐恵子, 吉本 富士市, 任意形状の光源による大気散乱光の高速レンダリング, 情報処理学会第70回全国大会，4ZE-8，2008年3月
 
 ### 2007
 * Y. Yue, K. Iwasaki, Y. Dobashi, T. Nishita, [Global Illumination for Interactive Lighting Design using Light Paths Precomputation and Hierarchical Histogram Estimation](https://dl.acm.org/doi/10.5555/1338439.1338557), Proc. of Pacific Graphics 2007, pp. 87-96, 2007.
 * Y. Yue, K. Iwasaki, Y. Dobashi, T. Nishita, [Global Illumination using Precomputed Light Paths for Interactive Light Condition Manipulation](https://doi.org/10.1145/1278780.1278850), SIGGRAPH2007 sketch, 2007.
 * K. Iwasaki, Y. Dobashi, F. Yoshimoto, T. Nishita, [Precomputed Radiance Transfer for Dynamic Scenes Taking into Account Light Interreflection](http://dx.doi.org/10.2312/EGWR/EGSR07/035-044), Proc. of Eurographics Symposium on Rendering 2007, pp. 35--44, 2007.
+* Y. Moro, K. Iwasaki, Y. Dobashi, T. Nishita,``Real-time Particle-based Simulation on Surface Flow",The Institute of Image Information and Television Engineers, Vol.61, No.10, pp.1457-1462, 2007 (in Japanese)
+* K. Iwasaki, K. Ueda, Y. Omoya, S. Takagi, F. Yoshimoto,``Real-time Rendering of Objects Coated with Multilayer Thin Films," Proc. of ISICE 2007 
+
+* 角田 賢亮, 岩崎 慶, 高木 佐恵子, 吉本 富士市: 遮蔽物を考慮した海面のレンダリング，情報処理学会研究報告 2007-CG-129，pp. 1-6，2007年11月
+* 上田 克幸，面家 康孝，岩崎 慶，高木 佐恵子，吉本 富士市: 多重薄膜で覆われた物体のリアルタイムレンダリング， Visual Computing グラフィクスとCAD 合同シンポジウム2007予稿集, pp. 185-190，大阪，2007年6月
+* 植田 裕司，岩崎 慶，高木 佐恵子，吉本 富士市: 花情報のモバイル検索システム ?花領域抽出とユーザインタフェースの改善?，画像電子学会第231回研究会講演予稿，pp. -，徳島，2007年3月
+* 森本 和範，岩崎 慶，高木 佐恵子，吉本 富士市: 氷塊融解の粒子ベースビジュアルシミュレーション，情報処理学会第69回全国大会，6Y-7，2007年3月
+* 中谷 聡志，岩崎 慶，高木 佐恵子，吉本 富士市: 自己反射を考慮した鏡面反射物体の高速レンダリング，情報処理学会第69回全国大会，6Y-4，2007年3月 **学生奨励賞**
+* 岡田 陽介，高木 佐恵子，岩崎 慶，吉本 富士市: 三次元顔モデルの美男美女化システム，情報処理学会研究報告 2007-CG-126，pp. 103-108，2007年2月
 
 ### 2006
 * K. Iwasaki, Y. Dobashi, N. Tamura, H. Johan, F. Yoshimoto, T. Nishita, [Precomputed Radiance Transfer for Dynamic Scenes with Diffuse Interreflection](https://doi.org/10.1145/1179849.1180065), SIGGRAPH2006 sketch, pages 173, 2006.
 * K. Iwasaki, F. Yoshimoto, Y. Dobashi, T. Nishita, [Real-time Rendering of Point-based Water Surfaces](https://link.springer.com/chapter/10.1007/11784203_9), Lecture Notes in Computer Science (Proc. of Computer Graphics International 2006), pp. 102--114. 2006.
+* K. Iwasaki, K. Ono, Y. Dobashi, T. Nishita, Point-based Rendering of Water Surfaces with Splashes Simulated by Particle-based Simulation,Proc. of NICOGRAPH 2006, 2006.
+* M. Oda, K. Iwasaki, S. Takagi, F. Yoshimoto, Real-time Rendering of Translucent Large Models,Journal of IIEEJ, Vol.35, No.4, pp.269-276, 2006. (in japanese)
+* Hirotoshi Mori, Kei Iwasaki, Saeko Takagi, and Fujiichi Yoshimoto, A Method for Improving the Silhouette Lines of Unskillful Hand-drawn Curves, in Proceedings of International Workshop on Advanced Image Technology (IWAIT) 2006, pp. 355-360, Naha, January 2006.
+** Toshiki Ohara, Saeko Takagi, Kei Iwasaki, and Fujiichi Yoshimoto, A Handy System to Support Novices' Illustrations, in Proceedings of International Workshop on Advanced Image Technology (IWAIT) 2006, pp. 585-590, Naha, January 2006.
+
+* 田畑 惣太郎，岩崎 慶，高木 佐恵子，吉本 富士市, 携帯電話で利用できる花の情報検索システム，画像電子学会 第224会研究会講演予稿，pp. 1-6，長崎，2006年3月
+* 董 強，岩崎 慶，高木 佐恵子，吉本 富士市, 携帯電話を利用した魚の情報検索システム，画像電子学会 第224会研究会講演予稿，pp. 7-12，長崎，2006年3月
+* 辻 達也，北内 隆寛，高木 佐恵子，松田 憲幸，曽我 真人，瀧 寛和，岩崎 慶，吉本富士市, 果物を対象とした初心者のための鉛筆デッサン学習支援システム，画像電子学会 第224会研究会講演予稿，pp. 125- 130，長崎，2006年3月
+* 小田 正志，岩崎慶，高木 佐恵子，吉本 富士市, ポイントサンプルジオメトリのための表面下散乱のリアルタイムレンダリング，情報処理学会研究報告 2006-CG-122，pp. 57-62，2006年2月
 
 ### 2005
 * K. Iwasaki, F. Yoshimoto, Y. Dobashi, T. Nishita, A Fast Rendering Technique of Transparent Objects and Caustics, Proc. of CASA2005,  pp. 165--170, 2005.
 * M. Oda, K. Iwasaki, S. Takagi, F. Yoshimoto, Fast Rendering Method for Point-sampled Translucent Geometry, Proc. of SIGGRAPH2005 Poster, 2005.
 * K. Iwasaki, F. Yoshimoto, Y. Dobashi, T. Nishita, A Method for Fast Rendering of Caustics from Refraction by Transparent Objects, IEICE Trans., Special Issue on CyberWorlds, Vol. E88-D, No. 5, pp. 904--911, 2005.
 * Y. Nakano, K. Tsukada, S. Takagi, K. Iwasaki, F. Yoshimoto, InCom: Support System for Informal Communication in 3D VirtualWorlds Generated from Common HTML Documents, IEICE Trans., Special Issue on CyberWorlds, Vol. E88-D, No. 5, pp. 872--879,2005.
+
 
 ### 2004
 * K. Iwasaki, K. Matsuzawa, T. Nishita, [Real-time Rendering of Soap Bubbles Taking into Account Light Interference](https://www.computer.org/csdl/proceedings-article/cgi/2004/21710344/12OmNxEjYbJ), Proc. of Computer Graphics International 2004, pp. 344-348, 2004. 
