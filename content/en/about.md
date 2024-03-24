@@ -48,15 +48,17 @@ type: aboutpage
 - xx
 - xx
 
-### B4
+#### B4
 - xx
 - xx
 - xx
 - xx
 
 ### Address
-Visual Computing Laboratory (VCL), [Graduate School of Science and Engineering](http://www.saitama-u.ac.jp/rikogaku/en.html), [Saitama University](https://en.saitama-u.ac.jp/).  
-255 Shimo-Okubo, Sakura-ku, Saitama, 338-8570, Japan.  
+- Visual Computing Laboratory (VCL)
+- [Graduate School of Science and Engineering](http://www.saitama-u.ac.jp/rikogaku/en.html)
+- [Saitama University](https://en.saitama-u.ac.jp/).  
+- 255 Shimo-Okubo, Sakura-ku, Saitama, 338-8570, Japan.  
 
 ### Access Map
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d808.3601905897486!2d139.6069364024916!3d35.862714100000005!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6018c306614768c5%3A0x2f89aa7965582fe8!2z57eP5ZCI56CU56m25qOf!5e0!3m2!1sja!2sjp!4v1711160425133!5m2!1sja!2sjp" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
