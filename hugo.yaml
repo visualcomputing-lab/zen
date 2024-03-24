@@ -37,7 +37,7 @@ params:
   copyright: '<!--Creative Commons License-->This site is licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC-BY-SA 4.0</a> licence.<!--/Creative Commons License-->'
   description: "The zen theme for Hugo demo site."
   dateformat: "2 January, 2006"
-  favicon: false
+  favicon: true 
   logo: false
   feedlinks: true
   icon: "apple-touch-icon.png"
