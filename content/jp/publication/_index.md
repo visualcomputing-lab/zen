@@ -8,7 +8,6 @@ draft: false
 ### 2023年度
 * Y. Dobashi, N. Ishikawa, K. Iwasaki, [Efficient Visualization of Light Pollution for the Night Sky](https://dl.acm.org/doi/10.1145/3618337), ACM Transactions on Graphics (Proc. of SIGGRAPH ASIA 2023), Vol. 42, No. 6, pp. 219:1--219:11, 2023.
 
-#### 国内研究会
 * 岩崎 慶,異方性計測スペクトラルBRDFのノンパラメトリック表現, 情報処理学会第190回cgvi研究会, 2023/06/29.
 * 萬谷 響, 岩崎 慶, 帯域調和関数分解を用いた球光源の球面調和係数の解析的勾配計算, 情報処理学会第190回cgvi研究会, 2023/06/29.
 * 藤 真太郎, 佐藤 周平, 岩崎 慶, 土橋 宜典, 2次元のBRDF分布の補間による金属表面上の傷のデザインシステム, 情報処理学会第191回cgvi研究会, 2023/09/16.
@@ -57,6 +56,7 @@ draft: false
 * H. Okuno, K. Iwasaki, [Binary Space Partitioning Visibility Tree for Polygonal Light Rendering](https://dl.acm.org/doi/10.1145/3355088.3365153), SIGGRAPH ASIA 2019 Technical Briefs, pp. 79--82, 2019.
 * K. Nabata, K. Iwasaki, Y. Dobashi, [Resampling-aware Weighting Functions for Bidirectional Path Tracing using Multiple Light Sub-paths](https://doi.org/10.1145/3338994), ACM Transactions on Graphics, Vol. 39, No. 2, Article No. 15, pp. 15:1--15:11, 2020.
 * 名畑豪祐, 岩崎慶, 多光源レンダリング法のための画像生成の効率を考慮した可視関数の確率的評価, 情報処理学会論文誌, Vol. 60, No. 6, pp. 1238-1246, 2019. **特選論文**
+
 * N. Podee, N. Max, K. Iwasaki, Y. Dobashi, Anti-aliasing for Rendering Reflection on Water Surface, 情報処理学会 第174回cgvi研究会, pp. 1-4, 2019/06.
 * N. Podee, N. Max, K. Iwasaki, Y. Dobashi, Circular Gaussian anti-aliasing for rendering reflection on water surface, VC2019  poster, 2019/06.
 * 奥野弘貴, 岩崎慶, バイナリ空間分割木を用いた多角形光源による影の計算, 情報処理学会 第176回cgvi研究会, pp. 1-6, 2019/11 **(優秀研究発表賞)**. 
@@ -65,7 +65,7 @@ draft: false
 * K. Sakurai, Y. Dobashi, K. Iwasaki, T. Nishita, [Fabricating Reflectors for Displaying Multiple Images](https://dl.acm.org/citation.cfm?id=3201400), ACM Transactions on Graphics (SIGGRAPH2018), Vol. 37, No. 4, pp. 158:1--158:10, 2018. 
 * J. Tsuruga, K. Iwasaki, [Sawtooth Cycle Revisited](https://onlinelibrary.wiley.com/doi/abs/10.1002/cav.1836), Computer Animation and Virtual Worlds (CASA2018), Vol. 29, No. 3--4, pages e1836, 2018.
 * H. Sakai, K. Nabata, S. Yasuaki, K. Iwasaki, [Error Estimation for Many-light Rendering with Supersampling](https://dl.acm.org/doi/10.1145/3283254.3283264), SIGGRAPH ASIA 2018 Technical Briefs, pp. 14:1--14:4, 2018.
-#### 
+
 * 酒井広和, 名畑豪祐, 安明真哉, 岩崎慶, スーパーサンプリングを用いた多光源レンダリングのための誤差推定法, VC2018, 2018/6.
 * 元辻香苗,名畑豪祐,岩崎慶, 微細構造における相互反射を考慮したバラのBRDF計算, 画像関連連合会秋季大会, 2018/11.
 * 岩崎陸人, 名畑豪祐, 酒井広和, 岩崎慶, 光沢反射を考慮した多光源レンダリングのための誤差推定法, 情報処理学会第81回全国大会, 1V04, 2019/3.
@@ -75,6 +75,11 @@ draft: false
 * K. Iwasaki, Y. Dobashi, M. Okabe, [Example-based Synthesis of Three-dimensional Clouds from Photographs](https://dl.acm.org/doi/10.1145/3095140.3095168), Proc. of Computer Graphics International (short paper), pp. 28:1--28:6, 2017.
 * Y. Dobashi, K. Iwasaki, M. Okabe, T. Ijiri, H. Todo, [Inverse Appearance Modeling of Interwoven Cloth](https://link.springer.com/article/10.1007/s00371-017-1455-9), The Visual Computer, Vol. 35, No. 2, pp. 175--190, 2017.
 
+* 鶴賀淳樹, 岩崎 慶, マルチグリッド法のためのNサイクルの提案，Visual Computing/グラフィクスとCAD合同シンポジウム2017(ポスター発表) 2017/6.
+* 岡⽥ 航輔, 岩崎 慶  線形変換された余弦分布を⽤いた効率的な相互反射計算, 情報処理学会関西支部G-23, p. 1-2, 2017/9. 
+* 岩崎 慶, 名畑 豪祐, 関与媒質のレンダリングのための誤差推定法, コンピュータグラフィクスとビジュアル情報学研究会, Vol. 2017-CG-168, No. 8, pp.1-6, 2017/11.
+* 土橋 宜典, 岩崎 慶, 岡部 誠, 井尻 敬, 藤堂 英樹, 布のCG表現のための見た目のモデリング, コンピュータグラフィクスとビジュアル情報学研究会, Vol. 2017-CG-168, No. 25, pp.1-5, 2017/11.
+
 ### 2016
 * Y. Dobashi, K. Iwasaki, Y. Yue, T. Nishita, [Visual Simulation of Clouds](https://doi.org/10.1016/j.visinf.2017.01.001), Visual Informatics, Vol. 1, No. 1, pp. 1--8, 2017.
 * K. Nabata, K. Iwasaki, Y. Dobashi, T. Nishita, [An Error Estimation Framework for Many-light Rendering](https://doi.org/10.1111/cgf.13040), Computer Graphics Forum (Proc. of Pacific Graphics 2016), Vol. 35, No. 7, pp. 431--439, 2016.
@@ -82,15 +87,27 @@ draft: false
 * R. Enotani, S. Yasuaki, K. Iwasaki, Y. Dobashi, T. Nishita, Importance Caching for Homogeneous Participating Media, IEVC2017. 
 * P. Namo, K. Iwasaki, Y. Dobashi, Efficient Adaptive GPU Path Tracing, IEVC2017.
 
-### 2015
+* 櫻井 快勢, 楽 詠灝, 金森 由博, 岩崎 慶, 土橋 宜典, 西田 友是, 複数画像を再現可能な反射板設計, Visual Computing/グラフィクスとCAD 合同シンポジウム 2016/6. **(GCAD賞)**
+* 柏木彰, 溝口智博, 岩崎慶, Physically-Accurate Fur Reflectance: Modeling, Measurement and Renderingの実装報告, 第164回研究発表会 CG技術の実装と数理 2016.
+* 上西直人, 佐藤周平, 岩崎慶, 西田友是, 領域削減の自動化によるWavelet Turbulenceの効率化, 情報処理学会第79会全国大会 2X-06, 2017/03. **(学生奨励賞)**
+* 大垣公輔, 佐藤周平, 岩崎慶, 西田友是, 複数のfar-field格子を用いた流体シミュレーション, 情報処理学会第79会全国大会 2X-05, 2017/03.
+* 鶴賀淳樹, 岩崎 慶, SawToothサイクルの拡張による圧力場計算の高速化, 情報処理学会第79会全国大会 2X-04, 2017/03.
+* 安明真哉, 名畑豪祐, 岩崎慶, 関与媒質の多光源レンダリングのための誤差推定法, 情報処理学会第79会全国大会 6X-01, 2017/03. **(学生奨励賞)**
 
+### 2015
 * S. Sato, Y. Dobashi, Y. Yue, K. Iwasaki, T. Nishita, [Incompressibility-Preserving Deformation for Fluid Flows Using Vector Potentials](https://link.springer.com/article/10.1007/s00371-015-1122-y), The Visual Computer (Proc. of CGI 2015), Vol. 31, No. 6--8, pp. 959--965, 2015.
 * Y. Dobashi, Y. Shibukawa, M. Tada, S. Sato, K. Iwasaki, T. Yamamoto, [An Interactive Editing System for Visual Appearances of Fire and Explosions](http://dx.doi.org/10.2312/egsh.20151012), EUROGRAPHICS 2015 short paper, pp. 49--52, 2015.
 * H. Yoshida, K. Nabata, K. Iwasaki, Y. Dobashi, T. Nishita, [Adaptive Importance Caching for Many-light Rendering](http://wscg.zcu.cz/WSCG2015/!_2015_Journal_WSCG-No-1.pdf), Journal of WSCG, Vol. 23, No. 1, pp. 65--72, 2015.
 * T. Ishikawa, Y. Yue, T. Watanabe, K. Iwasaki, Y. Dobashi, M. Kakimoto, K. Kondo, T. Nishita, Visual Simulation of Glazed Frost Using Hybrid Heat Calculation, IIEEJ Transactions on Image Electronics and Visual Computing Vol.3 No.2, pp.136--142, 2015.
 
+* 佐藤 周平, 土橋 宜典, 楽 詠灝, 岩崎 慶, 西田 友是, ベクトルポテンシャルを用いた流体流れ場の編集, Visual Computing/グラフィクスとCAD 合同シンポジウム 2015/6.
+* 名畑 豪祐, 岩崎 慶, 土橋 宜典, 西田 友是, VPL サンプリングのための効率的な可視関数の確率的評価, Visual Computing/グラフィクスとCAD合同シンポジウム 2015/6.
+* 岩崎 慶，土橋宜典, 岡部 誠, 山本 強，写真を用いた雲のモデリング，画像関連学会連合会 秋季大会, 2015/11.
+* 溝口智博, 名畑豪祐, 岩崎 慶, 高解像度法線マップを用いたハイライトの効率的レンダリング，画像関連学会連合会 秋季大会, 2015/11.
+* 榎谷亮祐, 岩崎 慶, キャッシュ点を用いた関与媒質の多光源レンダリング，画像関連学会連合会 秋季大会, 2015/11.
+* 仲北和弘, 岩崎 慶，間接光を考慮したピクセルアートのシェーディング手法，画像関連学会連合会 秋季大会，2015/11.
+* 井尻敬，岩崎慶，岡部誠，藤堂英樹，土橋宜典，西村智，Namo Podee，マイクロストラクチャからのBRDFの推定，ビジュアルコンピューティングワークショップ2015.
 ### 2014
-
 * K. Iwasaki, K. Mizutani, Y. Dobashi, T. Nishita, [Interactive Cloth Rendering of Microcylinder Appearance Model under Environment Lighting](https://doi.org/10.1111/cgf.12302), Computer Graphics Forum (Eurographics 2014), Vol. 33, No. 2, pp.333--340, 2014.
 * S. Sato, Y. Dobashi, K. Iwasaki. H. Ochiai, T. Yamamoto, T. Nishita, An Optimization Approach for Designing Fluid Flow Fields, Computer Graphics International 2014, short paper.
 * Y. Yue, K. Iwasaki, B.-Y. Chen, Y. Dobashi, T. Nishita, [Poisson-based Continuous Surface Generation for Goal-based Caustics](https://doi.org/10.1145/2580946), ACM Transactions on Graphics, Vol. 33, No. 3, pp. 31:1--31:7, 2014 (presented at SIGGRAPH 2014). 
@@ -98,6 +115,16 @@ draft: false
 * T. Ishikawa, Y. Yue, T. Watanabe, K. Iwasaki, Y. Dobashi, M. Kakimoto, K. Kondo, T. Nishita, Visual Simulation of Glazed Frost Taking into Account Supercooled State, IEVC2014, 2014.
 * S. Sato, Y. Dobashi, K. Iwasaki, H. Ochiai, T. Yamamoto, T. Nishita, [Deformation of 2D Flow Fields Using Stream Functions](https://doi.org/10.1145/2669024.2669039), SIGGRAPH ASIA Technical Brief 2014, pp. 4:1--4:4, 2014.
 *  K. Mizutani, K. Iwasaki, [Importance Sampling for Cloth Rendering under Environment Light](https://link.springer.com/chapter/10.1007/978-4-431-55483-7_14), Symposium Mathematical Progress in Expressive Image Synthesis (MEIS) 2014, pp. 81--88, 2014.
+
+* 佐藤 周平, 土橋 宜典, 岩崎 慶, 落合 啓之, 山本 強，ラプラシアン固有関数を用いた流体の流れ場のインタラクティブなデザイン手法，電子情報通信学会 論文誌D Vol.J97-D No.9 pp.1528-1536, 2014.
+* 名畑豪祐，岩崎慶，土橋宜典，西田友是，レイサンプリングによる効率的な分割統治法を用いたレイトレーシング，情報処理学会論文誌，Vol. 55, No. 12, pp. 2559-2568, 2014.
+
+* 名畑豪祐, 岩崎慶, 土橋宜典，西田友是，多光源レンダリングのための効率的な可視関数の確率的評価法，VC/GCAD合同シンポジウム2014, 2014/06.
+* 岩崎慶, マイクロシリンダモデルを用いた布の高速レンダリング，第155回グラフィクスとCAD研究会 (EG2014招待講演), 2014/06.
+* 佐藤 周平, 土橋 宜典, 楽 詠灝, 岩崎 慶, 西田 友是, ベクトルポテンシャルを用いた3 次元流れ場の編集, VCWS2014.
+* 大津 久平, 楽 詠灝, 侯 啓明, 岩崎 慶, 土橋 宜典, 須田 礼二, 西田 友是, メトロポリス光輸送法における双方向変異法のための光路サンプリング戦略決定について, グラフィクスとCAD研究会，2015-CG- 158(2), 1-7, 2015/02.
+* 吉田弘志，岩崎慶，多光源レンダリング法のための効率的な重要度キャッシング法，画像電子学会第272回研究会，pp. 114-118, 2015/02.
+* 佐藤 周平, 土橋 宜典, 楽 詠灝, 岩崎 慶, 西田 友是,ベクトルポテンシャルを用いた非圧縮性流体流れ場の変形, 情報処理学会第77回全国大会, 4F03, 2015.
 
 ### 2013
 * T. Ishikawa, Y. Yue, K. Iwasaki, Y. Dobashi, T. Nishita, Visual Simulation of Magnetic Fluids Using Dynamic Displacement Mapping for Spike Shapes,  IIEEJ Transactions on Image Electronics and Visual Computing, Vol.1, No.1, pp.51-57, 2013.
@@ -107,6 +134,15 @@ draft: false
 * H. Otsu, Y. Yue, Q. Hou, K. Iwasaki, Y. Dobashi, T. Nishita, [Replica Exchange Light Transport on Relaxed Distributions](https://doi.org/10.1145/2503385.2503501), SIGGRAPH 2013 Poster, pages 106:1, 2013.
 * M. Shinya, Y. Dobashi, K. Iwasaki, M. Shiraishi, T. Nishita, A Simplified Plane-parallel Scattering Model for Rendering Densely Distributed Objects such as Foliage, Journal of Information Processing, Vol. 21, No. 2, pp. 349-357, 2013.
 * T. Ishikawa, Y. Yue, K. Iwasaki, Y. Dobashi, T. Nishita, Visual Simulation of Magnetic Fluid Using a Procedural Approach for Spikes Shape, Computer Vision, Imaging, and Computer Graphics. Theory and Application, pp. 112-126, 2013. 
+
+* 八木貴志，岩崎慶，氷結による亀裂のビジュアルシミュレーション，情報処理学会全国大会，4ZC-8，2014/3.
+* 仲北和弘，岩崎慶，非等方性球面ガウス関数を用いた環境マップの近似手法，情報処理学会全国大会，2ZC-6, 2014/3.
+* 川口貴大，岩崎慶，クラスタ主成分分析による符号付き球面距離関数の圧縮，情報処理学会全国大会，2ZC-5, 2014/3.
+* 榎谷亮祐，岩崎慶，SUREを用いた適応的サンプリングの高速化，情報処理学会全国大会，2ZC-4, 2014/3.
+* 雪本英輝，岩崎慶，水中の髪の毛のビジュアルシミュレーション，情報処理学会関西支部大会2013, 学生奨励賞受賞.
+* 水谷一貴，岩崎慶，土橋宜典，西田友是，環境照明下の布の高速レンダリングと外観編集，VC/GCAD合同シンポジウム2013.
+* 石川知一，Yonghao Yue，渡辺大地，岩崎慶，土橋宜典，柿本正憲，近藤邦雄，西田友是，雨氷のビジュアルシミュレーション， VC/GCAD合同シンポジウム2013.
+* 佐藤 周平，土橋 宜典，岩崎 慶，山本 強，落合 啓之，流体の流れ場のインタラクティブなデザイン，VC/GCAD合同シンポジウム2013．
  
 ### 2012
 * K. Iwasaki, Y. Dobashi, T. Nishita, [Interactive Bi-scale Editing of Highly Glossy Materials](https://doi.org/10.1145/2366145.2366163), ACM Transactions on Graphics (SIGGRAPH ASIA 2012), Vol. 31, No. 6, pp. 144:1--144:7, 2012. 
@@ -116,11 +152,33 @@ draft: false
 * T. Ishikawa, Y. Yue, K. Iwasaki, Y. Dobashi, T. Nishita, "Visual Simulation of Magnetic Fluid Taking into Account Dynamic Deformation in Spikes", IEVC2012, 2012.
 * T. Ishikawa, Y. Yue, K. Iwasaki, Y. Dobashi, T. Nishita, "Visual Simulation of Magnetic Fluids", GRAPP 2012, pp. 319--327, 2012.
 
+* 古家 亙，岩崎 慶，土橋 宜典，西田 友是: 球近似と符号付き球面距離関数による 動的シーンのリアルタイムレンダリング，情報処理学会論文誌，Vol. 53, No. 7, 2012.
+
+* 北出晋一, 岩崎慶, 仮想照明を考慮したMRシーンのレンダリング, 電子情報通信学会, 2013.
+* 平岡勇作, 岩崎 慶, 粒状物体と布の連成シミュレーション，電子情報通信学会，2013.
+* 水谷一貴, 岩崎 慶, 環境照明下における布のレンダリング, 情報処理学会 関西支部大会 2012 G-18.
+* 岩崎 慶, 土橋 宜典, 西田 友是, 球面ガウス関数を用いた微細なスケールのBRDF編集, VC/GCAD合同シンポジウム2012, **優秀研究発表賞受賞**
+* 西野 孝則, 岩崎 慶, 土橋 宜典, 西田 友是, 気泡を考慮した氷結シミュレーション, VC/GCAD合同シンポジウム2012.
+* 石川知一, Yonghao Yue, 岩崎 慶, 土橋宜典, 西田友是, スパイクの動的変形を考慮した磁性流体のビジュアルシミュレーション, VC/GCAD合同シンポジウム2012.
+* Yonghao Yue, 岩崎 慶, 陳 炳宇, 土橋宜典, 西田友是,所望の集光模様を生成するための連続面からなる透明物体の形状設計法, VC/GCAD合同シンポジウム2012.
+* 豊田将千, 岩崎 慶, マルチGPUによる流体シミュレーションの高速な可視化, 映像情報メディア学会, pp. 13-14, 2012/5/23.
+
 ### 2011
 * W. Furuya, K. Iwasaki, Y. Dobashi, T. Nishita, [An Efficient Calculation Method of Spherical Signed Distance Functions for Real-time Rendering](https://doi.org/10.1145/2077378.2077393), ACM SIGGRAPH ASIA 2011 Technical Sketches, pp. 12:1--12:2, 2011.
 * K. Iwasaki, T. Nishino, Y. Dobashi, [Real-time Rendering of Endless Cloud Animation](http://dx.doi.org/10.2312/PE/PG/PG2011short/073-076), Proc. Pacific Graphics 2011 short paper, pp. 73-76, 2011.
 * Y. Yue, K. Iwasaki, B.-Y. Chen, Y.Dobashi, T. Nishita, [Toward Optimal Space Partitioning for Unbiased, Adaptive Free Path Sampling of Inhomogeneous Participating Media](https://doi.org/10.1111/j.1467-8659.2011.02049.x), Computer Graphics Forum, Vol. 30, No. 7, pp. 1911--1919, 2011.
 * T. Ishikawa, Y. Yue, K. Iwasaki, Y. Dobashi, T. Nishita, [Modeling of Aurora Borealis Using the Observed Data](https://doi.org/10.1145/2461217.2461220), Proc. of Spring Conference on Computer Graphics, pp. 13--16, 2011.
+
+* 江口 千央, 土橋 宜典, 山本 強, 岩崎 慶, Spherical Harmonic Exponentiationを用いた動的な雲の高速レンダリング，電子情報通信学会論文誌 A Vol.J94-A No.1 pp. 30--36.
+
+* 古家 亙，岩崎 慶：球面ガウス関数を用いた全周波環境照明下の動的シーンの高速レンダリング，情報処理学会全国大会4Z-3 **学生奨励賞受賞**.
+* 豊田 将千，岩崎 慶 : 光経路の前計算によるrandom discrete mediaの高速レンダリング，情報処理学会全国大会4Z-4.
+* 西野 孝則，岩崎 慶，土橋 宜典：多重散乱光を考慮した動的な雲のリアルタイムレンダリング，情報処理学会全国大会4Z-6.
+* 西野 孝則，岩崎 慶，土橋 宜典 : 雲のエンドレスアニメーションのリアルタイムレンダリング，VC/GCAD合同シンポジウム2011.
+* 古家 亙，岩崎 慶，土橋 宜典，西田 友是 : 球近似と符号付き球面距離関数による動的シーンのリアルタイムレンダリング ，VC/GCAD合同シンポジウム2011.
+* Yonghao Yue，岩崎 慶 ，陳 炳宇 ，土橋 宜典，西田 友是, 所望の集光模様を生成する透明物体の一設計法, VC/GCAD合同シンポジウム2011.
+* 石川知一，Yonghao Yue，岩崎慶，土橋宜典，西田友是, 電離圏モデルを利用したオーロラのシミュレーション, VC/GCAD合同シンポジウム2011.
+* 和田耕太，岩崎 慶，粒子ベース流体シミュレーションデータの圧縮，情報処理学会関西支部大会， C-23, 2011. **学生奨励賞受賞**
 
 ### 2010
 * Y. Yue, K. Iwasaki, B.-Y. Chen, Y.Dobashi, T. Nishita, [Unbiased, Adaptive Stochastic Sampling for Rendering Inhomogeneous Participating Media](https://doi.org/10.1145/1882261.1866199), ACM Trans. on Graphics, Vol. 29, No. 5 (Proc. SIGGRAPH Asia 2010), pp. 17:1--17:8, 2010. 
