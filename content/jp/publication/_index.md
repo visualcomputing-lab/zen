@@ -8,15 +8,25 @@ draft: false
 ### 2023
 * Y. Dobashi, N. Ishikawa, K. Iwasaki, [Efficient Visualization of Light Pollution for the Night Sky](https://dl.acm.org/doi/10.1145/3618337), ACM Transactions on Graphics (Proc. of SIGGRAPH ASIA 2023), Vol. 42, No. 6, pp. 219:1--219:11, 2023.
 
----
+#### 国内研究会
 * 岩崎 慶,異方性計測スペクトラルBRDFのノンパラメトリック表現, 情報処理学会第190回cgvi研究会, 2023/06/29.
 * 萬谷 響, 岩崎 慶, 帯域調和関数分解を用いた球光源の球面調和係数の解析的勾配計算, 情報処理学会第190回cgvi研究会, 2023/06/29.
 * 藤 真太郎, 佐藤 周平, 岩崎 慶, 土橋 宜典, 2次元のBRDF分布の補間による金属表面上の傷のデザインシステム, 情報処理学会第191回cgvi研究会, 2023/09/16.
+* 藤 真太郎, 佐藤 周平, 岩崎 慶, 土橋 宜典, BRDFの補間による金属表面上の傷のインタラクティブなデザイン. VC2023, ポスター P3, 2023/09/18.
+* 高尾 秀太, 岩崎 慶, 異方性フィルタを用いたテクスチャ光源のシェーディング, VC2023, ポスターP7, 2023/09/18.
+* 奥野 健一郎, 岩崎 慶, 球面調和関数を用いた環境マップ下における織物の糸レベルレンダリング, 情報処理学会第86回全国大会, 1P02, 2024/03/15.
+* 中 滉季, 岩崎 慶, ニューラル基底関数の精度向上に関する検討, 情報処理学会第86回全国大会, 1P03, 2024/03/15.
 
 ### 2022
 * K. Nabata, K. Iwasaki, [Adaptive Irradiance Sampling for Many-Light Rendering of Subsurface Scattering](https://ieeexplore.ieee.org/document/9380921), IEEE Transactions on Visualizations and Computer Graphics, Vol. 28, No. 10, pp. 3324--3335, 2022. 
 * Y. Shibaike, K, Iwasaki, [Optical Parameter Estimation for Hair and Fur using Differentiable Rendering](https://dl.acm.org/doi/10.1145/3550340.3564221), ACM SIGGRAPH ASIA 2022 Technical Communications, pp. 3:1--3:4, 2022
 * S. Fuji, S. Sato, K. Iwasaki, Y. Dobashi, S. Gao, Z. Tang, [Rendering of Scratched Transparent Materials using Precomputed SV-BSDFs](https://dl.acm.org/doi/abs/10.1145/3532719.3543207), ACM SIGGRAPH 2022 Poster, pp. 42:1--42:2, 2022.
+
+#### 国内研究会
+* 北林 悠河, 岩崎 慶, 微分可能レンダリングによるガウシアンフィルタリングのパラメータ推定, 情報処理学会第186回cgvi研究会, (学生発表賞), 2022/06/27.
+* 佐藤 眞宏, 岩崎 慶, 計測スペクトラルBRDFの解析モデル近似, 情報処理学会関西支部大会, G-26, 2022/09/18.
+* 山下大智, 岩崎慶, 板状透明物体のための屈折を考慮したモーションベクトルの一検討, VC+VCC2022, ポスター P25, 2022/10/08.
+* 明石佳祐, 岩崎慶, 幾何減衰項の異方性を考慮したBRDFの因子分解, 情報処理学会第85回全国大会, 1X01, 2023/03/02.
 
 ### 2021
 * H. Okuno, K. Iwasaki, [Binary Space Partitioning Visibility Tree for Polygonal and Environment Light Rendering](https://link.springer.com/article/10.1007/s00371-021-02181-8), The Visual Computer (CGI2021), Vol. 29, No. 7, pp. 2499--2511, 2021.
