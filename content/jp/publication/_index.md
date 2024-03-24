@@ -40,15 +40,30 @@ draft: false
 * 田中 剣樹, 岩崎 慶, 計測BRDFを考慮した多角形光源のレンダリング, 情報処理学会第84回全国大会, 6ZF-04, 2022/03.
 * 芝池 祐星, 岩崎 慶, 微分可能レンダリングを用いた髪の毛・毛皮の散乱パラメータ推定, 情報処理学会第84回全国大会, 6ZF-05, 2022/03.
 
-### 2020
+### 2020年度
 * K. Nabata, K. Iwasaki, Y. Dobashi, [Two-stage Resampling for Bidirectional Path Tracing using Multiple Light Sub-paths](https://doi.org/10.1111/cgf.14139), Computer Graphics Forum (PG2020), Vol. 39, No. 7, pp. 219--230, 2020. 
 * N. Podee, N. Max, K. Iwasaki, Y. Dobashi, [Temporal and Spatial Anti-aliasing for Rendering Reflections on Water Waves](https://link.springer.com/article/10.1007/s41095-021-0204-1), Computational Visual Media, Vol. 7, pp. 201--215, 2021.
 
-### 2019
+#### 国内研究会
+* N. Podee, N. Max, K. Iwasaki, Y. Dobashi, Adaptive Super Sampling for Rendering Reflections on Water Surfaces, 情報処理学会  第178回cgvi研究会, pp. 1-5, 2020/06.
+* 岡田実生, 岩崎慶,	クラスタリングを用いたニューラルBTFの圧縮, 情報処理学会関西支部大会, G-47, pp. 1-7, 2020/09/20.
+* 芝池祐星, 岩崎 慶, 髪の毛・毛皮のための効率的な重点的サンプリング, 情報処理学会関西支部大会, G-46, pp. 1-8, 2020/09/20. 
+* 引地 将大, 岩崎 慶, ガウス過程を用いたスペクトラルBRDFの予測, 情報処理学会関西支部大会, G-45, pp. 1-8, 2020/09/20. 
+* 芝池祐星, 岩崎 慶,  毛のレンダリングための効率的な重点的サンプリング, VC2020, 2020/12/02 **(優秀研究発表賞, 山下記念研究賞)**. 
+* N. Podee, N. Max, K. Iwasaki, Y. Dobashi,  Micro-specular-highlight real-time rendering, 情報処理学会 第181回cgvi研究会, pp. 1-4, 2021/02 (CGVI賞).
+* 今入一博, 岩崎慶, 多重散乱を考慮したCook-TorranceBRDFの球面調和関数近似, 情報処理学会第83回全国大会, 7Y-01, 2021/03. 
+* 大西和輝, 岩崎慶, スペクトルを考慮した計測BRDFの圧縮表現, 情報処理学会第83回全国大会, 7Y-04, 2021/03. 
+
+### 2019年度
 * H. Sakai, K. Nabata, S. Yasuaki, K. Iwasaki, [A Method for Estimating the Errors in Many-light Rendering with Supersampling](https://link.springer.com/article/10.1007/s41095-019-0137-0), Computational Visual Media, Vol. 5, pp. 1--10, 2019. 
 * N. Podee, N. Max, K. Iwasaki, Y. Dobashi, [Temporal and Spatial Anti-aliasing for Rendering Reflection on a Water Surface](https://dl.acm.org/citation.cfm?id=3338599), SIGGRAPH 2019 Posters, pp. 50:1--50:2, 2019. 
 * H. Okuno, K. Iwasaki, [Binary Space Partitioning Visibility Tree for Polygonal Light Rendering](https://dl.acm.org/doi/10.1145/3355088.3365153), SIGGRAPH ASIA 2019 Technical Briefs, pp. 79--82, 2019.
 * K. Nabata, K. Iwasaki, Y. Dobashi, [Resampling-aware Weighting Functions for Bidirectional Path Tracing using Multiple Light Sub-paths](https://doi.org/10.1145/3338994), ACM Transactions on Graphics, Vol. 39, No. 2, Article No. 15, pp. 15:1--15:11, 2020.
+* 名畑豪祐, 岩崎慶, 多光源レンダリング法のための画像生成の効率を考慮した可視関数の確率的評価, 情報処理学会論文誌, Vol. 60, No. 6, pp. 1238-1246, 2019. **特選論文**
+#### 国内研究会
+* N. Podee, N. Max, K. Iwasaki, Y. Dobashi, Anti-aliasing for Rendering Reflection on Water Surface, 情報処理学会 第174回cgvi研究会, pp. 1-4, 2019/06.
+* N. Podee, N. Max, K. Iwasaki, Y. Dobashi, Circular Gaussian anti-aliasing for rendering reflection on water surface, VC2019  poster, 2019/06.
+* 奥野弘貴, 岩崎慶, バイナリ空間分割木を用いた多角形光源による影の計算, 情報処理学会 第176回cgvi研究会, pp. 1-6, 2019/11 **(優秀研究発表賞)**. 
 
 ### 2018
 * K. Sakurai, Y. Dobashi, K. Iwasaki, T. Nishita, [Fabricating Reflectors for Displaying Multiple Images](https://dl.acm.org/citation.cfm?id=3201400), ACM Transactions on Graphics (SIGGRAPH2018), Vol. 37, No. 4, pp. 158:1--158:10, 2018. 
