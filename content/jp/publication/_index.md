@@ -8,6 +8,11 @@ draft: false
 ### 2023
 * Y. Dobashi, N. Ishikawa, K. Iwasaki, [Efficient Visualization of Light Pollution for the Night Sky](https://dl.acm.org/doi/10.1145/3618337), ACM Transactions on Graphics (Proc. of SIGGRAPH ASIA 2023), Vol. 42, No. 6, pp. 219:1--219:11, 2023.
 
+---
+* 岩崎 慶,異方性計測スペクトラルBRDFのノンパラメトリック表現, 情報処理学会第190回cgvi研究会, 2023/06/29.
+* 萬谷 響, 岩崎 慶, 帯域調和関数分解を用いた球光源の球面調和係数の解析的勾配計算, 情報処理学会第190回cgvi研究会, 2023/06/29.
+* 藤 真太郎, 佐藤 周平, 岩崎 慶, 土橋 宜典, 2次元のBRDF分布の補間による金属表面上の傷のデザインシステム, 情報処理学会第191回cgvi研究会, 2023/09/16.
+
 ### 2022
 * K. Nabata, K. Iwasaki, [Adaptive Irradiance Sampling for Many-Light Rendering of Subsurface Scattering](https://ieeexplore.ieee.org/document/9380921), IEEE Transactions on Visualizations and Computer Graphics, Vol. 28, No. 10, pp. 3324--3335, 2022. 
 * Y. Shibaike, K, Iwasaki, [Optical Parameter Estimation for Hair and Fur using Differentiable Rendering](https://dl.acm.org/doi/10.1145/3550340.3564221), ACM SIGGRAPH ASIA 2022 Technical Communications, pp. 3:1--3:4, 2022
