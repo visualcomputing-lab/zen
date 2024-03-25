@@ -39,20 +39,22 @@ type: aboutpage
 ---
 ### Members
 #### Faculty
-- Kei Iwasaki 
+- Kei Iwasaki
+    - [google scholar](https://scholar.google.co.jp/citations?user=PD3Wd9kAAAAJ&hl=ja)
+    - [DBLP](https://dblp.org/pid/21/3350.htm)
 
 #### M1
-- xx
-- xx
-- xx
-- xx
-- xx
+- Lei Wang 
+- Yohei Arakawa
+- Kosuke Nakagawa
+- Xu Mingrui
+- Zhang Ting Yu
 
 #### B4
-- xx
-- xx
-- xx
-- xx
+- Tomoya Kozuki 
+- Junya Ikeuchi
+- Risa Matsuda
+- Hiroto Kaburagi
 
 ### Address
 - Visual Computing Laboratory (VCL)
