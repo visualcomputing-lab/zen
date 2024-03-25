@@ -1,6 +1,6 @@
 ---
 title: About
-author: VCL 
+#author: VCL 
 date: 2024-03-23 
 #publishdate: 2012-01-10T00:05:19.000Z
 description: About Visual Computing Laboratory 
@@ -10,32 +10,6 @@ subtitle: Basic Information
 weight: 10
 alternatelocales:
   - ja-JP
-#topics:
-#  - eSolia
-type: aboutpage
-#menusection: eSolia
-#images:
-#  - /img/eSolia-Chicklet-Color-1024px.png
-#aliases:
-#  - 
-#  - /esolia-eng/about.htm
-#menu:
-#  side:
-#    Name: Basic Info
-#    Weight: 10
-#    Identifier: about
-#    Url: /about
-#    Parent: esolia
-#  detailfooter1:
-#    Name: About
-#    Weight: 10
-#    Identifier: about
-#    Url: /about
-#  homefooter1:
-#    Name: About
-#    Weight: 10
-#    Identifier: about
-#    Url: /about  
 ---
 ### Members
 #### Faculty
