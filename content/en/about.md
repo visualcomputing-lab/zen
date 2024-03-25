@@ -17,6 +17,8 @@ alternatelocales:
     - [google scholar](https://scholar.google.co.jp/citations?user=PD3Wd9kAAAAJ&hl=ja)
     - [DBLP](https://dblp.org/pid/21/3350.htm)
     - [ORCID](https://orcid.org/my-orcid?orcid=0000-0002-5235-536X)
+    - keiiwasaki _at_ acm.org 
+    - kiwasaki _at_ mail.saitama-u.ac.jp 
 #### M1
 - Lei Wang 
 - Yohei Arakawa
