@@ -1,8 +1,6 @@
 ---
 title: About
-author: VCL 
 date: 2024-03-23 
-#publishdate: 2012-01-10T00:05:19.000Z
 description: About Visual Computing Laboratory 
 draft: false
 slug: about
@@ -16,23 +14,23 @@ type: aboutpage
 ---
 ### 研究室メンバー
 #### 教員
-- 岩崎　慶 
+- 岩崎 慶 
     - [google scholar](https://scholar.google.co.jp/citations?user=PD3Wd9kAAAAJ&hl=ja)
     - [DBLP](https://dblp.org/pid/21/3350.htm)
     - [Researchmap](https://researchmap.jp/kei.iwasaki)
-
+    - [KAKEN](https://nrid.nii.ac.jp/ja/nrid/1000090379610/)
 #### M1
-- xx
-- xx
-- xx
-- xx
-- xx
+- Lei Wang (9月入学)
+- 荒川 耀平
+- 中川 皓介
+- 徐 明鋭
+- 張 汀雨
 
 #### B4
-- xx
-- xx
-- xx
-- xx
+- 小築 知弥 
+- 池内 順哉
+- 松田 理沙
+- 鏑木 嘉人
 
 ### 住所 
 〒338-8570 埼玉県さいたま市桜区下大久保255 <br>
