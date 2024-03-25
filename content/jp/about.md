@@ -10,7 +10,7 @@ alternatelocales:
   - ja-JP
 #topics:
 #  - eSolia
-type: aboutpage
+#type: aboutpage
 ---
 ### 研究室メンバー
 #### 教員
