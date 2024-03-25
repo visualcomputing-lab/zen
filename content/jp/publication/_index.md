@@ -1,5 +1,5 @@
 ---
-title: "Publication"
+title: "業績"
 subtitle: "publication list"
 date: 2024-03-21
 draft: false
