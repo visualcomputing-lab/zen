@@ -4,8 +4,7 @@ date: 2024-03-23
 description: home
 ---
 
-This is a website of Visual Computing Laboratory at Saitama University.
-Our laboratory mainly focuses on developing new algorithms for Computer Graphics. 
+Visual Computing Laboratory (VCL) mainly focuses on developing new algorithms for Computer Graphics. 
 Research topics include rendering (real-time and off-line), physically-based visual simulation, animation, and fabrication.
 
 We are always looking for highly-motivated PhD students working with us. 
