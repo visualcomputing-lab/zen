@@ -24,7 +24,7 @@ alternatelocales:
 - Yohei Arakawa
 - Kosuke Nakagawa
 - Xu Mingrui
-- Zhang Ting Yu
+- Zhang Tingyu
 
 #### B4
 - Tomoya Kozuki 
