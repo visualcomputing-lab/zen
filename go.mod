@@ -1,5 +1,5 @@
 module github.com/frjo/zen-demo
 
-go 1.18
+go 1.22
 
-require github.com/frjo/hugo-theme-zen/v3 v3.9.0 // indirect
+require github.com/frjo/hugo-theme-zen/v4 v4.1.0 // indirect
