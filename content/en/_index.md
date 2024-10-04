@@ -1,41 +1,20 @@
 ---
-title: Visual Computing Laboratory at Saitama University
-date: 2024-03-23
-description: home
+title: The Zen demo site
+date: 2022-08-03T20:48:20+02:00
+
 ---
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/bxslider/4.2.12/jquery.bxslider.css">
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
-<script src="https://cdn.jsdelivr.net/bxslider/4.2.12/jquery.bxslider.min.js"></script>
+This is a demo site for the [Hugo zen theme](https://github.com/frjo/hugo-theme-zen) (GitHub).
 
-<script type="text/javascript">
-        $(document).ready(function(){
-            $('.slider').bxSlider({
-                auto: true,
-                pause: 5000,
-            });
-        });
-</script>
+Source code for [Zen demo site](https://github.com/frjo/zen-demo) (GitHub).
 
-<div class="slider">
-<img src="./fig/PG10.jpg" width="400" height="240" alt="">
-<img src="./fig/SGA2012.jpg" width="400" height="240" alt="">
-<img src="./fig/EG2012.jpg" width="400" height="240" alt="">
-<img src="./fig/HPG2013.jpg" width="400" height="240" alt="">
-<img src="./fig/pg2016.png" width="400" height="240" alt="">
-<img src="./fig/tog2020.png" width="400" height="240" alt="">
-<img src="./fig/tvcg2021.png" width="400" height="240" alt="">
-</div>
+This is the theme I have built to have a good base for all my own Hugo projects. I normally extend it during new projects when I come up with fixes and solutions that I think will be generally useful.
 
-Visual Computing Laboratory (VCL) mainly focuses on developing new algorithms for Computer Graphics. 
-Research topics include rendering (real-time and off-line), physically-based visual simulation, animation, and fabrication.
+I am happy to see that other people also have found it useful.
 
-#### Prospective Students
-We are always looking for highly-motivated PhD students working with us. 
-If you are interested in joining our lab, please let me know.
+## Styles
 
-### News
-- 2024/03/25: site renewal 
+What you see here is the base reset CSS plus the Zen styles. I fully expect most users of this theme will remove the Zen styles. They are a set of styles I happen to often use in my own projects.
 
-###
+To make this theme look like anything you need to add your own custom styling to it. It is a **base** theme after all.
 
